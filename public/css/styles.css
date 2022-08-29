@@ -16111,3 +16111,7 @@ html[data-placement=horizontal] .nav-container {
 li {
   list-style-type: none;
 }
+
+#mobileMenuButton {
+  color: #000 !important;
+}
