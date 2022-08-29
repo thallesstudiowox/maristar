@@ -24,7 +24,7 @@ Route::resource('inventario', InventarioController::class, ['names' => 'inventar
 // Route::get('webcam', [WebcamController::class, 'index']);
 
 
-Route::redirect('/', '/inventario');
+//Route::redirect('/', '/inventario');
 
 
 /*
