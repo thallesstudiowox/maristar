@@ -1,0 +1,23 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Cintura",
+    "data": [
+        [
+            {
+                "id": "",
+                "text": "Selecione a cintura",
+                "next": ""
+            },
+            { "id": 0, "text": "Cós Alto", "next": "fecho" },
+            { "id": 0, "text": "Cós Médio", "next": "fecho" },
+            { "id": 0, "text": "Cós Baixo", "next": "fecho" }
+        ],
+        [
+            {
+                "id": 1,
+                "text": "Selecione o cintura",
+                "next": ""
+            }
+        ]
+    ]
+}

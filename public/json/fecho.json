@@ -1,0 +1,24 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Fechos",
+    "data": [
+        [
+            {
+                "id": "",
+                "text": "Selecione o Fecho",
+                "next": ""
+            },
+            { "id": 0, "text": "Ziper", "next": "tamanho" },
+            { "id": 0, "text": "Elástico", "next": "tamanho" },
+            { "id": 0, "text": "Botões", "next": "tamanho" },
+            { "id": 0, "text": "Cinto", "next": "tamanho" }
+        ],
+        [
+            {
+                "id": "",
+                "text": "Selecione o Fecho",
+                "next": ""
+            }
+        ]
+    ]
+}

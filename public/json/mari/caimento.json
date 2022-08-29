@@ -1,0 +1,35 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Modelo Calça",
+    "data": [
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "id": "",
+                "text": "Selecione o Caimento",
+                "value": "",
+                "next": ""
+            },
+            {
+                "id": "",
+                "text": "Justo",
+                "value": "Justo",
+                "next": "cintura"
+            },
+            {
+                "id": "",
+                "text": "Soltinho",
+                "value": "Soltinho",
+                "next": "cintura"
+            }
+        ],
+
+        [],
+        [],
+        [],
+        []
+    ]
+}

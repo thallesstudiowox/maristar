@@ -1,0 +1,158 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Gola",
+    "data": [
+        [
+            {
+                "value": 0,
+                "text": "Selecione a Gola",
+                "id": "",
+                "next": ""
+            }
+        ],
+        [
+            {
+                "value": 1,
+                "text": "Selecione a Gola",
+                "id": "",
+                "next": ""
+            },
+            {
+                "value": 1,
+                "text": "V",
+                "id": "V",
+                "next": "tamanho"
+            },
+            {
+                "value": 1,
+                "text": "U",
+                "id": "U",
+                "next": "tamanho"
+            },
+            {
+                "value": 1,
+                "text": "Decotada Frente",
+                "id": "Decotada Frente",
+                "next": "tamanho"
+            },
+            {
+                "value": 1,
+                "text": "Decotada Costas",
+                "id": "Decotada Costas",
+                "next": "tamanho"
+            }
+        ],
+        [
+            {
+                "value": 2,
+                "text": "Selecione a Gola",
+                "id": "",
+                "next": ""
+            },
+            {
+                "value": 2,
+                "text": "V",
+                "id": "V",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 2,
+                "text": "U",
+                "id": "U",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 2,
+                "text": "Decotada Frente",
+                "id": "Decotada Frente",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 2,
+                "text": "Decotada Costas",
+                "id": "Decotada Costas",
+                "next": "modelo_manga"
+            }
+        ],
+        [
+            {
+                "value": 3,
+                "text": "Selecione a Gola",
+                "id": "",
+                "next": ""
+            },
+            {
+                "value": 3,
+                "text": "V",
+                "id": "V",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "text": "U",
+                "id": "U",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "text": "Decotada Frente",
+                "id": "Decotada Frente",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "text": "Decotada Costas",
+                "id": "Decotada Costas",
+                "next": "tamanho"
+            }
+        ],
+        [
+            {
+                "value": 0,
+                "text": "Selecione a Gola",
+                "id": "",
+                "next": ""
+            }
+        ],
+        [
+            {
+                "value": 0,
+                "text": "Selecione a Gola",
+                "id": "",
+                "next": ""
+            }
+        ],
+        [
+            {
+                "value": 3,
+                "text": "Selecione a Gola",
+                "id": "",
+                "next": ""
+            },
+            {
+                "value": 3,
+                "text": "V",
+                "id": "V",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "text": "U",
+                "id": "U",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "text": "Decotada Frente",
+                "id": "Decotada Frente",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "text": "Decotada Costas",
+                "id": "Decotada Costas",
+                "next": "tamanho"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Modelo Manga",
+    "data": [
+        [
+            {
+                "id": "",
+                "text": "Selecione o Modelo Manga",
+                "next": ""
+            }
+        ],
+        [
+            {
+                "id": "",
+                "text": "Selecione o Modelo Manga",
+                "next": ""
+            },
+            { "id": 1, "text": "Alcinha/Regata 1", "next": "gola" },
+            { "id": 1, "text": "Manga Curta 1", "next": "gola" },
+            { "id": 1, "text": "Manga 3/4 1", "next": "gola" },
+            { "id": 1, "text": "Manga Longa 1", "next": "gola" }
+        ],
+        [
+            {
+                "id": "",
+                "text": "Selecione o Modelo Manga",
+                "next": ""
+            },
+            { "id": 2, "text": "Alcinha/Regata", "next": "gola" },
+            { "id": 2, "text": "Manga Curta", "next": "gola" },
+            { "id": 2, "text": "Manga 3/4", "next": "gola" },
+            { "id": 2, "text": "Manga Longa", "next": "gola" }
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+/* This file is reserved for overriding and extending the template styles. */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@require "~@fortawesome/fontawesome-free/scss/fontawesome";
+@require "~@fortawesome/fontawesome-free/scss/regular";
+@require "~@fortawesome/fontawesome-free/scss/solid";
+@require "~@fortawesome/fontawesome-free/scss/brands";
+
+div#logo img {
+    width: auto;
+    height: 50px;
+}
+
+.table td,
+.table th {
+    vertical-align: middle;
+}
+.btn-primary,
+.btn-danger {
+    color: #212529;
+}
+[type="file"] {
+    cursor: pointer;
+}
+.headerLine {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.limitAlert {
+    margin-left: 10px;
+    background: red;
+    padding: 10px;
+    font-weight: bold;
+    color: #fff;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-danger:hover,
+.btn-primary:hover {
+    color: #666;
+    -webkit-appearance: button;
+    /* background-color: transparent; */
+    background-image: none;
+}
+.table a {
+    text-decoration: underline !important;
+}
+
+.preview {
+    width: 100%;
+    overflow: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+#file-ip-1-preview {
+    width: auto;
+    max-height: 300px;
+}

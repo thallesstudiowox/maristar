@@ -1,0 +1,114 @@
+{
+    "tipo": "texto",
+    "categorias": [
+        [
+            {
+                "nome": "Comprimento perna (Cós/Barra)",
+                "name": "comprimento_perna_cos_Barra"
+            },
+            {
+                "nome": "Medida Cós",
+                "name": "medida_cos"
+            },
+            {
+                "nome": "Medida Gancho",
+                "name": "medida_gancho"
+            }
+        ],
+
+        [
+            {
+                "nome": "Altura (gola/barra)",
+                "name": "altura_gola_barra"
+            },
+            {
+                "nome": "Largura (ombro a ombro)",
+                "name": "largura_ombro_a_ombro"
+            },
+            {
+                "nome": "Medida Manga (ombro/punho)",
+                "name": "medida_manga_ombro_punho"
+            }
+        ],
+
+        [
+            {
+                "nome": "Altura Média (gola/cintura)",
+                "name": "altura_media_gola_cintura"
+            },
+            {
+                "nome": "Altura Total (gola/barra)",
+                "name": "altura_total_gola_barra"
+            },
+            {
+                "nome": "Largura (ombro a ombro)",
+                "name": "largura_ombro_a_ombro"
+            },
+            {
+                "nome": "Medida Manga (ombro/punho)",
+                "name": "medida_manga_ombro_punho"
+            }
+        ],
+
+        [
+            {
+                "nome": "Altura Média (gola/cintura)",
+                "name": "altura_media_gola_cintura"
+            },
+            {
+                "nome": "Altura Total (gola/barra)",
+                "name": "altura_total_gola_barra"
+            },
+            {
+                "nome": "Largura (ombro a ombro)",
+                "name": "largura_ombro_a_ombro"
+            },
+            {
+                "nome": "Medida Manga (ombro/punho)",
+                "name": "medida_manga_ombro_punho"
+            }
+        ],
+
+        [
+            {
+                "nome": "Comprimento perna (Cós/Barra)",
+                "name": "comprimento_perna_cos_Barra"
+            },
+            {
+                "nome": "Medida Cós",
+                "name": "medida_cos"
+            },
+            {
+                "nome": "Medida Gancho",
+                "name": "medida_gancho"
+            }
+        ],
+
+        [
+            {
+                "nome": "Altura (Cós/Barra)",
+                "name": "altura_cos_Barra"
+            },
+            {
+                "nome": "Medida Cós",
+                "name": "medida_cos"
+            }
+        ],
+
+        [
+            {
+                "nome": "Altura (gola/barra)",
+                "name": "altura_gola_barra"
+            },
+            {
+                "nome": "Largura (ombro a ombro)",
+                "name": "largura_ombro_a_ombro"
+            },
+            {
+                "nome": "Medida Manga (ombro/punho)",
+                "name": "medida_manga_ombro_punho"
+            }
+        ]
+    ],
+    "next": "final"
+}

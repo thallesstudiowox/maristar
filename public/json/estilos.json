@@ -1,0 +1,254 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Estilos",
+    "data": [
+        [
+            {
+                "id": "",
+                "value": "",
+                "text": "Selecione o Estilo",
+                "next": ""
+            },
+            {
+                "value": 0,
+                "id": "Flare/Clássica comprida",
+                "text": "Flare/Clássica comprida",
+                "next": "cintura"
+            },
+            {
+                "value": 0,
+                "id": "Pantacourt/Curta",
+                "text": "Pantacourt/Curta",
+                "next": "cintura"
+            },
+            {
+                "value": 0,
+                "id": "Cigarrete/Skinny",
+                "text": "Cigarrete/Skinny",
+                "next": "cintura"
+            },
+            {
+                "value": 0,
+                "id": "Pantalona/Wide",
+                "text": "Pantalona/Wide",
+                "next": "cintura"
+            },
+            {
+                "value": 0,
+                "id": "Baggy/Boyfriend/Mom",
+                "text": "Baggy/Boyfriend/Mom",
+                "next": "cintura"
+            },
+            {
+                "value": 0,
+                "id": "Legging",
+                "text": "Legging",
+                "next": "cintura"
+            }
+        ],
+        [
+            {
+                "id": "",
+                "value": "",
+                "text": "Selecione o Estilo",
+                "next": ""
+            },
+            {
+                "value": 1,
+                "id": "Cropped/Top",
+                "text": "Cropped/Top",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 1,
+                "id": "Blusa",
+                "text": "Blusa",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 1,
+                "id": "Camisa Botão",
+                "text": "Camisa Botão",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 1,
+                "id": "Body",
+                "text": "Body",
+                "next": "modelo_manga"
+            }
+        ],
+        [
+            {
+                "value": 2,
+                "id": "Curto",
+                "text": "Curto",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 2,
+                "id": "Midi",
+                "text": "Midi",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 2,
+                "id": "Longo",
+                "text": "Longo",
+                "next": "modelo_manga"
+            }
+        ],
+        [
+            {
+                "value": 3,
+                "id": "Curto",
+                "text": "Curto",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 3,
+                "id": "Midi",
+                "text": "Midi",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 3,
+                "id": "Longo",
+                "text": "Longo",
+                "next": "modelo_manga"
+            }
+        ],
+        [
+            {
+                "value": 4,
+                "id": "Curto",
+                "text": "Curto",
+                "next": "caimento"
+            },
+            {
+                "value": 4,
+                "id": "Bermudinha",
+                "text": "Bermudinha",
+                "next": "caimento"
+            }
+        ],
+        [
+            {
+                "value": 5,
+                "id": "Curta",
+                "text": "Curta",
+                "next": "cintura"
+            },
+            {
+                "value": 5,
+                "id": "Midi",
+                "text": "Midi",
+                "next": "cintura"
+            },
+            {
+                "value": 5,
+                "id": "Longa",
+                "text": "Longa",
+                "next": "cintura"
+            }
+        ],
+        [
+            {
+                "value": 6,
+                "id": "Jaqueta",
+                "text": "Jaqueta",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 6,
+                "id": "Casaquinho",
+                "text": "Casaquinho",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 6,
+                "id": "Sobretudo",
+                "text": "Sobretudo",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 6,
+                "id": "Colete",
+                "text": "Colete",
+                "next": "modelo_manga"
+            },
+            {
+                "value": 6,
+                "id": "Kimono",
+                "text": "Kimono",
+                "next": "modelo_manga"
+            }
+        ],
+        [
+            {
+                "value": 7,
+                "id": "Kimono",
+                "text": "Kimono",
+                "next": "modelo_manga"
+            }
+        ],
+        [
+            {
+                "value": 8,
+                "id": "Pashmina",
+                "text": "Pashmina",
+                "next": "cor"
+            },
+            {
+                "value": 8,
+                "id": "cinto",
+                "text": "cinto",
+                "next": "cor"
+            },
+            {
+                "value": 8,
+                "id": "Óculos",
+                "text": "Óculos",
+                "next": "cor"
+            },
+            {
+                "value": 8,
+                "id": "Pulseira",
+                "text": "Pulseira",
+                "next": "cor"
+            },
+            [
+                {
+                    "value": 9,
+                    "id": "Scarpin",
+                    "text": "Scarpin",
+                    "next": "salto"
+                },
+                {
+                    "value": 9,
+                    "id": "Sandália",
+                    "text": "Sandália",
+                    "next": "salto"
+                },
+                {
+                    "value": 9,
+                    "id": "Tênis",
+                    "text": "Tênis",
+                    "next": "salto"
+                },
+                {
+                    "value": 9,
+                    "id": "Rasteira",
+                    "text": "Rasteira",
+                    "next": "salto"
+                },
+                {
+                    "value": 9,
+                    "id": "Outros",
+                    "text": "Outros",
+                    "next": "salto"
+                }
+            ]
+        ]
+    ]
+}

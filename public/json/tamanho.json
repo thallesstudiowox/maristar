@@ -1,0 +1,32 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Tamanho",
+    "data": [
+        [
+            {
+                "id": "",
+                "text": "Selecione o tamanho",
+                "next": ""
+            },
+            { "id": 0, "text": "PP", "next": "cor" },
+            { "id": 0, "text": "P", "next": "cor" },
+            { "id": 0, "text": "M", "next": "cor" },
+            { "id": 0, "text": "G", "next": "cor" },
+            { "id": 0, "text": "GG", "next": "cor" },
+            { "id": 0, "text": "34", "next": "cor" },
+            { "id": 0, "text": "36", "next": "cor" },
+            { "id": 0, "text": "38", "next": "cor" },
+            { "id": 0, "text": "40", "next": "cor" },
+            { "id": 0, "text": "42", "next": "cor" },
+            { "id": 0, "text": "44", "next": "cor" },
+            { "id": 0, "text": "U", "next": "cor" }
+        ],
+        [
+            {
+                "id": "",
+                "text": "Selecione o tamanho",
+                "next": ""
+            }
+        ]
+    ]
+}

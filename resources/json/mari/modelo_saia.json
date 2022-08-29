@@ -1,0 +1,150 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Modelo Calça",
+    "data": [
+        [],
+        [],
+        [],
+        [
+            {
+                "text": "Selecione o Modelo Calça",
+                "value": "",
+                "id": "",
+                "next": ""
+            },
+            {
+                "value": 3,
+                "id": "Fendada",
+                "text": "Fendada",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "id": "Sereia",
+                "text": "Sereia",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "id": "Aberta (boneca/godê)",
+                "text": "Aberta (boneca/godê)",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "id": "Reta",
+                "text": "Reta",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "id": "Plissada/Pregas",
+                "text": "Plissada/Pregas",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "id": "Envelope",
+                "text": "Envelope",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "id": "Lápis (secretária)",
+                "text": "Lápis (secretária)",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "id": "Rodada",
+                "text": "Rodada",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "id": "Drapeada",
+                "text": "Drapeada",
+                "next": "tamanho"
+            },
+            {
+                "value": 3,
+                "id": "Recortes/Assimétrica",
+                "text": "Recortes/Assimétrica",
+                "next": "tamanho"
+            }
+        ],
+
+        [],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o Modelo Calça",
+                "next": ""
+            },
+            {
+                "value": 5,
+                "id": "Fendada",
+                "text": "Fendada",
+                "next": "gola"
+            },
+            {
+                "value": 5,
+                "id": "Sereia",
+                "text": "Sereia",
+                "next": "gola"
+            },
+            {
+                "value": 5,
+                "id": "Aberta (boneca/godê)",
+                "text": "Aberta (boneca/godê)",
+                "next": "gola"
+            },
+            {
+                "value": 5,
+                "id": "Reta",
+                "text": "Reta",
+                "next": "gola"
+            },
+            {
+                "value": 5,
+                "id": "Plissada/Pregas",
+                "text": "Plissada/Pregas",
+                "next": "gola"
+            },
+            {
+                "value": 5,
+                "id": "Envelope",
+                "text": "Envelope",
+                "next": "gola"
+            },
+            {
+                "value": 5,
+                "id": "Lápis (secretária)",
+                "text": "Lápis (secretária)",
+                "next": "gola"
+            },
+            {
+                "value": 5,
+                "id": "Rodada",
+                "text": "Rodada",
+                "next": "gola"
+            },
+            {
+                "value": 5,
+                "id": "Drapeada",
+                "text": "Drapeada",
+                "next": "gola"
+            },
+            {
+                "value": 5,
+                "id": "Recortes/Assimétrica",
+                "text": "Recortes/Assimétrica",
+                "next": "gola"
+            }
+        ],
+        [],
+        [],
+        []
+    ]
+}

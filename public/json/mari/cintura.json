@@ -1,0 +1,89 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Cintura",
+    "data": [
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Cintura",
+                "next": ""
+            },
+            {
+                "value": 0,
+                "id": "Cós Alto",
+                "text": "Cós Alto",
+                "next": "fecho"
+            },
+            {
+                "value": 0,
+                "id": "Cós Médio",
+                "text": "Cós Médio",
+                "next": "fecho"
+            },
+            {
+                "value": 0,
+                "id": "Cós Baixo",
+                "text": "Cós Baixo",
+                "next": "fecho"
+            }
+        ],
+        [{}],
+        [{}],
+        [{}],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Cintura",
+                "next": ""
+            },
+            {
+                "value": 4,
+                "id": "Cós Alto",
+                "text": "Cós Alto",
+                "next": "fecho"
+            },
+            {
+                "value": 4,
+                "id": "Cós Médio",
+                "text": "Cós Médio",
+                "next": "fecho"
+            },
+            {
+                "value": 4,
+                "id": "Cós Baixo",
+                "text": "Cós Baixo",
+                "next": "fecho"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Cintura",
+                "next": ""
+            },
+            {
+                "value": 5,
+                "id": "Cós Alto",
+                "text": "Cós Alto",
+                "next": "fecho"
+            },
+            {
+                "value": 5,
+                "id": "Cós Médio",
+                "text": "Cós Médio",
+                "next": "fecho"
+            },
+            {
+                "value": 5,
+                "id": "Cós Baixo",
+                "text": "Cós Baixo",
+                "next": "fecho"
+            }
+        ],
+        [{}],
+        [{}]
+    ]
+}

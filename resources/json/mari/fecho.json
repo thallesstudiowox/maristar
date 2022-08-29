@@ -1,0 +1,79 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Fechos",
+    "data": [
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o fecho",
+                "next": ""
+            },
+            { "value": 0, "id": "Ziper", "text": "Ziper", "next": "tamanho" },
+            {
+                "value": 0,
+                "id": "Elástico",
+                "text": "Elástico",
+                "next": "tamanho"
+            },
+            { "value": 0, "id": "Botões", "text": "Botões", "next": "tamanho" },
+            { "value": 0, "id": "Cinto", "text": "Cinto", "next": "tamanho" }
+        ],
+        [{}],
+        [{}],
+        [{}],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o fecho",
+                "next": ""
+            },
+            { "value": 4, "id": "Ziper", "text": "Ziper", "next": "tamanho" },
+            {
+                "value": 4,
+                "id": "Elástico",
+                "text": "Elástico",
+                "next": "tamanho"
+            },
+            { "value": 4, "id": "Botões", "text": "Botões", "next": "tamanho" },
+            { "value": 4, "id": "Cinto", "text": "Cinto", "next": "tamanho" }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o fecho",
+                "next": ""
+            },
+            { "value": 5, "id": "Ziper", "text": "Ziper", "next": "modelo" },
+            {
+                "value": 5,
+                "id": "Elástico",
+                "text": "Elástico",
+                "next": "modelo"
+            },
+            { "value": 5, "id": "Botões", "text": "Botões", "next": "modelo" },
+            { "value": 5, "id": "Cinto", "text": "Cinto", "next": "modelo" }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o fecho",
+                "next": ""
+            },
+            { "value": 6, "id": "Ziper", "text": "Ziper", "next": "gola" },
+            {
+                "value": 6,
+                "id": "Fechado",
+                "text": "Fechado",
+                "next": "gola"
+            },
+            { "value": 6, "id": "Aberto", "text": "Aberto", "next": "gola" },
+            { "value": 6, "id": "Cinto", "text": "Cinto", "next": "gola" }
+        ],
+        [],
+        []
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Modelo Calça",
+    "data": [
+        [],
+        [],
+        [
+            {
+                "id": "",
+                "text": "Selecione o Modelo Calça",
+                "value": "",
+                "next": ""
+            },
+            {
+                "id": 2,
+                "value": "Flare/Clássica comprida",
+                "text": "Flare/Clássica comprida",
+                "next": "tamanho"
+            },
+            {
+                "id": 2,
+                "value": "Pantacourt/Curta",
+                "text": "Pantacourt/Curta",
+                "next": "tamanho"
+            },
+            {
+                "id": 2,
+                "value": "Cigarrete/Skinny",
+                "text": "Cigarrete/Skinny",
+                "next": "tamanho"
+            },
+            {
+                "id": 2,
+                "value": "Pantalona/Wide",
+                "text": "Pantalona/Wide",
+                "next": "tamanho"
+            },
+            {
+                "id": 2,
+                "value": "Baggy/Boyfriend/Mom",
+                "text": "Baggy/Boyfriend/Mom",
+                "next": "tamanho"
+            },
+            {
+                "id": 2,
+                "value": "Legging",
+                "text": "Legging",
+                "next": "tamanho"
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ]
+}

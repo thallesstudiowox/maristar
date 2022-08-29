@@ -1,0 +1,122 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Marcas",
+    "data": [
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            },
+            {
+                "value": 0,
+                "text": "marca 1",
+                "id": "marca 1",
+                "next": "tecidos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            },
+            {
+                "value": 1,
+                "text": "marca 1",
+                "id": "marca 2",
+                "next": "tecidos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            },
+            {
+                "value": 2,
+                "text": "marca 1",
+                "id": "marca 3",
+                "next": "tecidos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            },
+            {
+                "value": 3,
+                "text": "marca 1",
+                "id": "marca 4",
+                "next": "tecidos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            },
+            {
+                "value": 4,
+                "text": "marca 1",
+                "id": "marca 5",
+                "next": "tecidos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            },
+            {
+                "value": 5,
+                "text": "marca 1",
+                "id": "marca 6",
+                "next": "tecidos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            },
+            {
+                "value": 6,
+                "text": "marca 1",
+                "id": "marca 7",
+                "next": "tecidos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            },
+            { "value": 7, "text": "marca 1", "id": "marca 8", "next": "final" }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            },
+            { "value": 8, "text": "marca 1", "id": "marca 1", "next": "final" }
+        ]
+    ]
+}

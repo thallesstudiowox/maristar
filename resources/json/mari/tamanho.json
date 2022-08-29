@@ -1,0 +1,160 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Tamanho",
+    "data": [
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o tamanho",
+                "next": ""
+            },
+            { "value": 0, "id": "PP", "text": "PP", "next": "cor" },
+            { "value": 0, "id": "P", "text": "P", "next": "cor" },
+            { "value": 0, "id": "M", "text": "M", "next": "cor" },
+            { "value": 0, "id": "G", "text": "G", "next": "cor" },
+            { "value": 0, "id": "GG", "text": "GG", "next": "cor" },
+            { "value": 0, "id": "34", "text": "34", "next": "cor" },
+            { "value": 0, "id": "36", "text": "36", "next": "cor" },
+            { "value": 0, "id": "38", "text": "38", "next": "cor" },
+            { "value": 0, "id": "40", "text": "40", "next": "cor" },
+            { "value": 0, "id": "42", "text": "42", "next": "cor" },
+            { "value": 0, "id": "44", "text": "44", "next": "cor" },
+            { "value": 0, "id": "U", "text": "U", "next": "cor" }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o tamanho",
+                "next": ""
+            },
+            { "value": 1, "id": "PP", "text": "PP", "next": "cor" },
+            { "value": 1, "id": "P", "text": "P", "next": "cor" },
+            { "value": 1, "id": "M", "text": "M", "next": "cor" },
+            { "value": 1, "id": "G", "text": "G", "next": "cor" },
+            { "value": 1, "id": "GG", "text": "GG", "next": "cor" },
+            { "value": 1, "id": "34", "text": "34", "next": "cor" },
+            { "value": 1, "id": "36", "text": "36", "next": "cor" },
+            { "value": 1, "id": "38", "text": "38", "next": "cor" },
+            { "value": 1, "id": "40", "text": "40", "next": "cor" },
+            { "value": 1, "id": "42", "text": "42", "next": "cor" },
+            { "value": 1, "id": "44", "text": "44", "next": "cor" },
+            { "value": 1, "id": "U", "text": "U", "next": "cor" }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o tamanho",
+                "next": ""
+            },
+            { "value": 2, "id": "PP", "text": "PP", "next": "cor" },
+            { "value": 2, "id": "P", "text": "P", "next": "cor" },
+            { "value": 2, "id": "M", "text": "M", "next": "cor" },
+            { "value": 2, "id": "G", "text": "G", "next": "cor" },
+            { "value": 2, "id": "GG", "text": "GG", "next": "cor" },
+            { "value": 2, "id": "34", "text": "34", "next": "cor" },
+            { "value": 2, "id": "36", "text": "36", "next": "cor" },
+            { "value": 2, "id": "38", "text": "38", "next": "cor" },
+            { "value": 2, "id": "40", "text": "40", "next": "cor" },
+            { "value": 2, "id": "42", "text": "42", "next": "cor" },
+            { "value": 2, "id": "44", "text": "44", "next": "cor" },
+            { "value": 2, "id": "U", "text": "U", "next": "cor" }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o tamanho",
+                "next": ""
+            },
+            { "value": 3, "id": "PP", "text": "PP", "next": "cor" },
+            { "value": 3, "id": "P", "text": "P", "next": "cor" },
+            { "value": 3, "id": "M", "text": "M", "next": "cor" },
+            { "value": 3, "id": "G", "text": "G", "next": "cor" },
+            { "value": 3, "id": "GG", "text": "GG", "next": "cor" },
+            { "value": 3, "id": "34", "text": "34", "next": "cor" },
+            { "value": 3, "id": "36", "text": "36", "next": "cor" },
+            { "value": 3, "id": "38", "text": "38", "next": "cor" },
+            { "value": 3, "id": "40", "text": "40", "next": "cor" },
+            { "value": 3, "id": "42", "text": "42", "next": "cor" },
+            { "value": 3, "id": "44", "text": "44", "next": "cor" },
+            { "value": 3, "id": "U", "text": "U", "next": "cor" }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o tamanho",
+                "next": ""
+            },
+            { "value": 4, "id": "PP", "text": "PP", "next": "cor" },
+            { "value": 4, "id": "P", "text": "P", "next": "cor" },
+            { "value": 4, "id": "M", "text": "M", "next": "cor" },
+            { "value": 4, "id": "G", "text": "G", "next": "cor" },
+            { "value": 4, "id": "GG", "text": "GG", "next": "cor" },
+            { "value": 4, "id": "34", "text": "34", "next": "cor" },
+            { "value": 4, "id": "36", "text": "36", "next": "cor" },
+            { "value": 4, "id": "38", "text": "38", "next": "cor" },
+            { "value": 4, "id": "40", "text": "40", "next": "cor" },
+            { "value": 4, "id": "42", "text": "42", "next": "cor" },
+            { "value": 4, "id": "44", "text": "44", "next": "cor" },
+            { "value": 4, "id": "U", "text": "U", "next": "cor" }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o tamanho",
+                "next": ""
+            },
+            { "value": 5, "id": "PP", "text": "PP", "next": "cor" },
+            { "value": 5, "id": "P", "text": "P", "next": "cor" },
+            { "value": 5, "id": "M", "text": "M", "next": "cor" },
+            { "value": 5, "id": "G", "text": "G", "next": "cor" },
+            { "value": 5, "id": "GG", "text": "GG", "next": "cor" },
+            { "value": 5, "id": "34", "text": "34", "next": "cor" },
+            { "value": 5, "id": "36", "text": "36", "next": "cor" },
+            { "value": 5, "id": "38", "text": "38", "next": "cor" },
+            { "value": 5, "id": "40", "text": "40", "next": "cor" },
+            { "value": 5, "id": "42", "text": "42", "next": "cor" },
+            { "value": 5, "id": "44", "text": "44", "next": "cor" },
+            { "value": 5, "id": "U", "text": "U", "next": "cor" }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o tamanho",
+                "next": ""
+            },
+            { "value": 6, "id": "PP", "text": "PP", "next": "cor" },
+            { "value": 6, "id": "P", "text": "P", "next": "cor" },
+            { "value": 6, "id": "M", "text": "M", "next": "cor" },
+            { "value": 6, "id": "G", "text": "G", "next": "cor" },
+            { "value": 6, "id": "GG", "text": "GG", "next": "cor" },
+            { "value": 6, "id": "34", "text": "34", "next": "cor" },
+            { "value": 6, "id": "36", "text": "36", "next": "cor" },
+            { "value": 6, "id": "38", "text": "38", "next": "cor" },
+            { "value": 6, "id": "40", "text": "40", "next": "cor" },
+            { "value": 6, "id": "42", "text": "42", "next": "cor" },
+            { "value": 6, "id": "44", "text": "44", "next": "cor" },
+            { "value": 6, "id": "U", "text": "U", "next": "cor" }
+        ],
+        [{}],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o tamanho",
+                "next": ""
+            },
+            { "value": 8, "id": "35", "text": "PP", "next": "cor" },
+            { "value": 8, "id": "36", "text": "P", "next": "cor" },
+            { "value": 8, "id": "37", "text": "M", "next": "cor" },
+            { "value": 8, "id": "38", "text": "G", "next": "cor" },
+            { "value": 8, "id": "39", "text": "GG", "next": "cor" }
+        ]
+    ]
+}

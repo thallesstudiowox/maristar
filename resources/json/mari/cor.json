@@ -1,0 +1,742 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Cor",
+    "data": [
+        [
+            { "value": "", "id": "", "text": "Selecione o Cor", "next": "" },
+            { "value": 0, "id": "Branco", "text": "Branco", "next": "marcas" },
+            { "value": 0, "id": "Preto", "text": "Preto", "next": "marcas" },
+            { "value": 0, "id": "Azul", "text": "Azul", "next": "marcas" },
+            {
+                "value": 0,
+                "id": "Amarelo",
+                "text": "Amarelo",
+                "next": "marcas"
+            },
+            {
+                "value": 0,
+                "id": "Vermelho",
+                "text": "Vermelho",
+                "next": "marcas"
+            },
+            { "value": 0, "id": "Rosa", "text": "Rosa", "next": "marcas" },
+            { "value": 0, "id": "Roxo", "text": "Roxo", "next": "marcas" },
+            { "value": 0, "id": "Verde", "text": "Verde", "next": "marcas" },
+            { "value": 0, "id": "Cinza", "text": "Cinza", "next": "marcas" },
+            { "value": 0, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 0,
+                "id": "Turquesa",
+                "text": "Turquesa",
+                "next": "marcas"
+            },
+            {
+                "value": 0,
+                "id": "Nude/Bege",
+                "text": "Nude Bege",
+                "next": "marcas"
+            },
+            {
+                "value": 0,
+                "id": "Listrado",
+                "text": "Listrado",
+                "next": "marcas"
+            },
+            {
+                "value": 0,
+                "id": "Poá/Bolinhas",
+                "text": "Poá Bolinhas",
+                "next": "marcas"
+            },
+            {
+                "value": 0,
+                "id": "Florido",
+                "text": "Florido",
+                "next": "marcas"
+            },
+            {
+                "value": 0,
+                "id": "Geométrico",
+                "text": "Geométrico",
+                "next": "marcas"
+            },
+            {
+                "value": 0,
+                "id": "Estampada Diversa",
+                "text": "Estampada Diversa",
+                "next": "marcas"
+            },
+            {
+                "value": 0,
+                "id": "Dourado",
+                "text": "Dourado",
+                "next": "marcas"
+            },
+            { "value": 0, "id": "Cobre", "text": "Cobre", "next": "marcas" },
+            {
+                "value": 0,
+                "id": "Prateado",
+                "text": "Prateado",
+                "next": "marcas"
+            }
+        ],
+        [
+            { "id": "", "id": "", "text": "Selecione o Cor", "next": "" },
+            { "value": 1, "id": "Branco", "text": "Branco", "next": "marcas" },
+            { "value": 1, "id": "Preto", "text": "Preto", "next": "marcas" },
+            { "value": 1, "id": "Azul", "text": "Azul", "next": "marcas" },
+            {
+                "value": 1,
+                "id": "Amarelo",
+                "text": "Amarelo",
+                "next": "marcas"
+            },
+            {
+                "value": 1,
+                "id": "Vermelho",
+                "text": "Vermelho",
+                "next": "marcas"
+            },
+            { "value": 1, "id": "Rosa", "text": "Rosa", "next": "marcas" },
+            { "value": 1, "id": "Roxo", "text": "Roxo", "next": "marcas" },
+            { "value": 1, "id": "Verde", "text": "Verde", "next": "marcas" },
+            { "value": 1, "id": "Cinza", "text": "Cinza", "next": "marcas" },
+            { "value": 1, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 1,
+                "id": "Turquesa",
+                "text": "Turquesa",
+                "next": "marcas"
+            },
+            {
+                "value": 1,
+                "id": "Nude/Bege",
+                "text": "Nude Bege",
+                "next": "marcas"
+            },
+            {
+                "value": 1,
+                "id": "Listrado",
+                "text": "Listrado",
+                "next": "marcas"
+            },
+            {
+                "value": 1,
+                "id": "Poá/Bolinhas",
+                "text": "Poá Bolinhas",
+                "next": "marcas"
+            },
+            {
+                "value": 1,
+                "id": "Florido",
+                "text": "Florido",
+                "next": "marcas"
+            },
+            {
+                "value": 1,
+                "id": "Geométrico",
+                "text": "Geométrico",
+                "next": "marcas"
+            },
+            {
+                "value": 1,
+                "id": "Estampada Diversa",
+                "text": "Estampada Diversa",
+                "next": "marcas"
+            },
+            {
+                "value": 1,
+                "id": "Dourado",
+                "text": "Dourado",
+                "next": "marcas"
+            },
+            { "value": 1, "id": "Cobre", "text": "Cobre", "next": "marcas" },
+            {
+                "value": 1,
+                "id": "Prateado",
+                "text": "Prateado",
+                "next": "marcas"
+            }
+        ],
+        [
+            { "value": "", "id": "", "text": "Selecione o Cor", "next": "" },
+            { "value": 2, "id": "Branco", "text": "Branco", "next": "marcas" },
+            { "value": 2, "id": "Preto", "text": "Preto", "next": "marcas" },
+            { "value": 2, "id": "Azul", "text": "Azul", "next": "marcas" },
+            {
+                "value": 2,
+                "id": "Amarelo",
+                "text": "Amarelo",
+                "next": "marcas"
+            },
+            {
+                "value": 2,
+                "id": "Vermelho",
+                "text": "Vermelho",
+                "next": "marcas"
+            },
+            { "value": 2, "id": "Rosa", "text": "Rosa", "next": "marcas" },
+            { "value": 2, "id": "Roxo", "text": "Roxo", "next": "marcas" },
+            { "value": 2, "id": "Verde", "text": "Verde", "next": "marcas" },
+            { "value": 2, "id": "Cinza", "text": "Cinza", "next": "marcas" },
+            { "value": 2, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 2,
+                "id": "Turquesa",
+                "text": "Turquesa",
+                "next": "marcas"
+            },
+            {
+                "value": 2,
+                "id": "Nude/Bege",
+                "text": "Nude Bege",
+                "next": "marcas"
+            },
+            {
+                "value": 2,
+                "id": "Listrado",
+                "text": "Listrado",
+                "next": "marcas"
+            },
+            {
+                "value": 2,
+                "id": "Poá/Bolinhas",
+                "text": "Poá Bolinhas",
+                "next": "marcas"
+            },
+            {
+                "value": 2,
+                "id": "Florido",
+                "text": "Florido",
+                "next": "marcas"
+            },
+            {
+                "value": 2,
+                "id": "Geométrico",
+                "text": "Geométrico",
+                "next": "marcas"
+            },
+            {
+                "value": 2,
+                "id": "Estampada Diversa",
+                "text": "Estampada Diversa",
+                "next": "marcas"
+            },
+            {
+                "value": 2,
+                "id": "Dourado",
+                "text": "Dourado",
+                "next": "marcas"
+            },
+            { "value": 2, "id": "Cobre", "text": "Cobre", "next": "marcas" },
+            {
+                "value": 2,
+                "id": "Prateado",
+                "text": "Prateado",
+                "next": "marcas"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o Cor",
+                "next": ""
+            },
+            { "value": 3, "id": "Branco", "text": "Branco", "next": "marcas" },
+            { "value": 3, "id": "Preto", "text": "Preto", "next": "marcas" },
+            { "value": 3, "id": "Azul", "text": "Azul", "next": "marcas" },
+            {
+                "value": 3,
+                "id": "Amarelo",
+                "text": "Amarelo",
+                "next": "marcas"
+            },
+            {
+                "value": 3,
+                "id": "Vermelho",
+                "text": "Vermelho",
+                "next": "marcas"
+            },
+            { "value": 3, "id": "Rosa", "text": "Rosa", "next": "marcas" },
+            { "value": 3, "id": "Roxo", "text": "Roxo", "next": "marcas" },
+            { "value": 3, "id": "Verde", "text": "Verde", "next": "marcas" },
+            { "value": 3, "id": "Cinza", "text": "Cinza", "next": "marcas" },
+            { "value": 3, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 3,
+                "id": "Turquesa",
+                "text": "Turquesa",
+                "next": "marcas"
+            },
+            {
+                "value": 3,
+                "id": "Nude/Bege",
+                "text": "Nude Bege",
+                "next": "marcas"
+            },
+            {
+                "value": 3,
+                "id": "Listrado",
+                "text": "Listrado",
+                "next": "marcas"
+            },
+            {
+                "value": 3,
+                "id": "Poá/Bolinhas",
+                "text": "Poá Bolinhas",
+                "next": "marcas"
+            },
+            {
+                "value": 3,
+                "id": "Florido",
+                "text": "Florido",
+                "next": "marcas"
+            },
+            {
+                "value": 3,
+                "id": "Geométrico",
+                "text": "Geométrico",
+                "next": "marcas"
+            },
+            {
+                "value": 3,
+                "id": "Estampada Diversa",
+                "text": "Estampada Diversa",
+                "next": "marcas"
+            },
+            {
+                "value": 3,
+                "id": "Dourado",
+                "text": "Dourado",
+                "next": "marcas"
+            },
+            { "value": 3, "id": "Cobre", "text": "Cobre", "next": "marcas" },
+            {
+                "value": 3,
+                "id": "Prateado",
+                "text": "Prateado",
+                "next": "marcas"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o Cor",
+                "next": ""
+            },
+            { "value": 4, "id": "Branco", "text": "Branco", "next": "marcas" },
+            { "value": 4, "id": "Preto", "text": "Preto", "next": "marcas" },
+            { "value": 4, "id": "Azul", "text": "Azul", "next": "marcas" },
+            {
+                "value": 4,
+                "id": "Amarelo",
+                "text": "Amarelo",
+                "next": "marcas"
+            },
+            {
+                "value": 4,
+                "id": "Vermelho",
+                "text": "Vermelho",
+                "next": "marcas"
+            },
+            { "value": 4, "id": "Rosa", "text": "Rosa", "next": "marcas" },
+            { "value": 4, "id": "Roxo", "text": "Roxo", "next": "marcas" },
+            { "value": 4, "id": "Verde", "text": "Verde", "next": "marcas" },
+            { "value": 4, "id": "Cinza", "text": "Cinza", "next": "marcas" },
+            { "value": 4, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 4,
+                "id": "Turquesa",
+                "text": "Turquesa",
+                "next": "marcas"
+            },
+            {
+                "value": 4,
+                "id": "Nude/Bege",
+                "text": "Nude Bege",
+                "next": "marcas"
+            },
+            {
+                "value": 4,
+                "id": "Listrado",
+                "text": "Listrado",
+                "next": "marcas"
+            },
+            {
+                "value": 4,
+                "id": "Poá/Bolinhas",
+                "text": "Poá Bolinhas",
+                "next": "marcas"
+            },
+            {
+                "value": 4,
+                "id": "Florido",
+                "text": "Florido",
+                "next": "marcas"
+            },
+            {
+                "value": 4,
+                "id": "Geométrico",
+                "text": "Geométrico",
+                "next": "marcas"
+            },
+            {
+                "value": 4,
+                "id": "Estampada Diversa",
+                "text": "Estampada Diversa",
+                "next": "marcas"
+            },
+            {
+                "value": 4,
+                "id": "Dourado",
+                "text": "Dourado",
+                "next": "marcas"
+            },
+            { "value": 4, "id": "Cobre", "text": "Cobre", "next": "marcas" },
+            {
+                "value": 4,
+                "id": "Prateado",
+                "text": "Prateado",
+                "next": "marcas"
+            }
+        ],
+
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o Cor",
+                "next": ""
+            },
+            { "value": 5, "id": "Branco", "text": "Branco", "next": "marcas" },
+            { "value": 5, "id": "Preto", "text": "Preto", "next": "marcas" },
+            { "value": 5, "id": "Azul", "text": "Azul", "next": "marcas" },
+            {
+                "value": 5,
+                "id": "Amarelo",
+                "text": "Amarelo",
+                "next": "marcas"
+            },
+            {
+                "value": 5,
+                "id": "Vermelho",
+                "text": "Vermelho",
+                "next": "marcas"
+            },
+            { "value": 5, "id": "Rosa", "text": "Rosa", "next": "marcas" },
+            { "value": 5, "id": "Roxo", "text": "Roxo", "next": "marcas" },
+            { "value": 5, "id": "Verde", "text": "Verde", "next": "marcas" },
+            { "value": 5, "id": "Cinza", "text": "Cinza", "next": "marcas" },
+            { "value": 5, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 5,
+                "id": "Turquesa",
+                "text": "Turquesa",
+                "next": "marcas"
+            },
+            {
+                "value": 5,
+                "id": "Nude/Bege",
+                "text": "Nude Bege",
+                "next": "marcas"
+            },
+            {
+                "value": 5,
+                "id": "Listrado",
+                "text": "Listrado",
+                "next": "marcas"
+            },
+            {
+                "value": 5,
+                "id": "Poá/Bolinhas",
+                "text": "Poá Bolinhas",
+                "next": "marcas"
+            },
+            {
+                "value": 5,
+                "id": "Florido",
+                "text": "Florido",
+                "next": "marcas"
+            },
+            {
+                "value": 5,
+                "id": "Geométrico",
+                "text": "Geométrico",
+                "next": "marcas"
+            },
+            {
+                "value": 5,
+                "id": "Estampada Diversa",
+                "text": "Estampada Diversa",
+                "next": "marcas"
+            },
+            {
+                "value": 5,
+                "id": "Dourado",
+                "text": "Dourado",
+                "next": "marcas"
+            },
+            { "value": 5, "id": "Cobre", "text": "Cobre", "next": "marcas" },
+            {
+                "value": 5,
+                "id": "Prateado",
+                "text": "Prateado",
+                "next": "marcas"
+            }
+        ],
+
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o Cor",
+                "next": ""
+            },
+            { "value": 6, "id": "Branco", "text": "Branco", "next": "marcas" },
+            { "value": 6, "id": "Preto", "text": "Preto", "next": "marcas" },
+            { "value": 6, "id": "Azul", "text": "Azul", "next": "marcas" },
+            {
+                "value": 6,
+                "id": "Amarelo",
+                "text": "Amarelo",
+                "next": "marcas"
+            },
+            {
+                "value": 6,
+                "id": "Vermelho",
+                "text": "Vermelho",
+                "next": "marcas"
+            },
+            { "value": 6, "id": "Rosa", "text": "Rosa", "next": "marcas" },
+            { "value": 6, "id": "Roxo", "text": "Roxo", "next": "marcas" },
+            { "value": 6, "id": "Verde", "text": "Verde", "next": "marcas" },
+            { "value": 6, "id": "Cinza", "text": "Cinza", "next": "marcas" },
+            { "value": 6, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 6,
+                "id": "Turquesa",
+                "text": "Turquesa",
+                "next": "marcas"
+            },
+            {
+                "value": 6,
+                "id": "Nude/Bege",
+                "text": "Nude Bege",
+                "next": "marcas"
+            },
+            {
+                "value": 6,
+                "id": "Listrado",
+                "text": "Listrado",
+                "next": "marcas"
+            },
+            {
+                "value": 6,
+                "id": "Poá/Bolinhas",
+                "text": "Poá Bolinhas",
+                "next": "marcas"
+            },
+            {
+                "value": 6,
+                "id": "Florido",
+                "text": "Florido",
+                "next": "marcas"
+            },
+            {
+                "value": 6,
+                "id": "Geométrico",
+                "text": "Geométrico",
+                "next": "marcas"
+            },
+            {
+                "value": 6,
+                "id": "Estampada Diversa",
+                "text": "Estampada Diversa",
+                "next": "marcas"
+            },
+            {
+                "value": 6,
+                "id": "Dourado",
+                "text": "Dourado",
+                "next": "marcas"
+            },
+            { "value": 6, "id": "Cobre", "text": "Cobre", "next": "marcas" },
+            {
+                "value": 6,
+                "id": "Prateado",
+                "text": "Prateado",
+                "next": "marcas"
+            }
+        ],
+
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o Cor",
+                "next": ""
+            },
+            { "value": 7, "id": "Branco", "text": "Branco", "next": "marcas" },
+            { "value": 7, "id": "Preto", "text": "Preto", "next": "marcas" },
+            { "value": 7, "id": "Azul", "text": "Azul", "next": "marcas" },
+            {
+                "value": 7,
+                "id": "Amarelo",
+                "text": "Amarelo",
+                "next": "marcas"
+            },
+            {
+                "value": 7,
+                "id": "Vermelho",
+                "text": "Vermelho",
+                "next": "marcas"
+            },
+            { "value": 7, "id": "Rosa", "text": "Rosa", "next": "marcas" },
+            { "value": 7, "id": "Roxo", "text": "Roxo", "next": "marcas" },
+            { "value": 7, "id": "Verde", "text": "Verde", "next": "marcas" },
+            { "value": 7, "id": "Cinza", "text": "Cinza", "next": "marcas" },
+            { "value": 7, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 7,
+                "id": "Turquesa",
+                "text": "Turquesa",
+                "next": "marcas"
+            },
+            {
+                "value": 7,
+                "id": "Nude/Bege",
+                "text": "Nude Bege",
+                "next": "marcas"
+            },
+            {
+                "value": 7,
+                "id": "Listrado",
+                "text": "Listrado",
+                "next": "marcas"
+            },
+            {
+                "value": 7,
+                "id": "Poá/Bolinhas",
+                "text": "Poá Bolinhas",
+                "next": "marcas"
+            },
+            {
+                "value": 7,
+                "id": "Florido",
+                "text": "Florido",
+                "next": "marcas"
+            },
+            {
+                "value": 7,
+                "id": "Geométrico",
+                "text": "Geométrico",
+                "next": "marcas"
+            },
+            {
+                "value": 7,
+                "id": "Estampada Diversa",
+                "text": "Estampada Diversa",
+                "next": "marcas"
+            },
+            {
+                "value": 7,
+                "id": "Dourado",
+                "text": "Dourado",
+                "next": "marcas"
+            },
+            { "value": 7, "id": "Cobre", "text": "Cobre", "next": "marcas" },
+            {
+                "value": 7,
+                "id": "Prateado",
+                "text": "Prateado",
+                "next": "marcas"
+            }
+        ],
+
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione o Cor",
+                "next": ""
+            },
+            { "value": 8, "id": "Branco", "text": "Branco", "next": "marcas" },
+            { "value": 8, "id": "Preto", "text": "Preto", "next": "marcas" },
+            { "value": 8, "id": "Azul", "text": "Azul", "next": "marcas" },
+            {
+                "value": 8,
+                "id": "Amarelo",
+                "text": "Amarelo",
+                "next": "marcas"
+            },
+            {
+                "value": 8,
+                "id": "Vermelho",
+                "text": "Vermelho",
+                "next": "marcas"
+            },
+            { "value": 8, "id": "Rosa", "text": "Rosa", "next": "marcas" },
+            { "value": 8, "id": "Roxo", "text": "Roxo", "next": "marcas" },
+            { "value": 8, "id": "Verde", "text": "Verde", "next": "marcas" },
+            { "value": 8, "id": "Cinza", "text": "Cinza", "next": "marcas" },
+            { "value": 8, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 8,
+                "id": "Turquesa",
+                "text": "Turquesa",
+                "next": "marcas"
+            },
+            {
+                "value": 8,
+                "id": "Nude/Bege",
+                "text": "Nude Bege",
+                "next": "marcas"
+            },
+            {
+                "value": 8,
+                "id": "Listrado",
+                "text": "Listrado",
+                "next": "marcas"
+            },
+            {
+                "value": 8,
+                "id": "Poá/Bolinhas",
+                "text": "Poá Bolinhas",
+                "next": "marcas"
+            },
+            {
+                "value": 8,
+                "id": "Florido",
+                "text": "Florido",
+                "next": "marcas"
+            },
+            {
+                "value": 8,
+                "id": "Geométrico",
+                "text": "Geométrico",
+                "next": "marcas"
+            },
+            {
+                "value": 8,
+                "id": "Estampada Diversa",
+                "text": "Estampada Diversa",
+                "next": "marcas"
+            },
+            {
+                "value": 8,
+                "id": "Dourado",
+                "text": "Dourado",
+                "next": "marcas"
+            },
+            { "value": 8, "id": "Cobre", "text": "Cobre", "next": "marcas" },
+            {
+                "value": 8,
+                "id": "Prateado",
+                "text": "Prateado",
+                "next": "marcas"
+            }
+        ]
+    ]
+}

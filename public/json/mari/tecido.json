@@ -1,0 +1,19 @@
+{
+    "tipo": "texto",
+    "categorias": [
+        { "nome": "Tecido", "name": "tecido" },
+        {
+            "nome": "Comprimento perna (Cós/Barra)",
+            "name": "comprimento_perna_cos_barra"
+        },
+        {
+            "nome": "Medida Cós",
+            "name": "medida_cos"
+        },
+        {
+            "nome": "Medida Gancho",
+            "name": "medida_gancho"
+        }
+    ],
+    "next": "final"
+}

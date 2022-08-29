@@ -1,0 +1,132 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Tecidos",
+    "data": [
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Tecido",
+                "next": ""
+            },
+            {
+                "value": 0,
+                "text": "Tecido 1",
+                "id": "Tecido 1",
+                "next": "textos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Tecido",
+                "next": ""
+            },
+            {
+                "value": 1,
+                "text": "Tecido 1",
+                "id": "Tecido 2",
+                "next": "textos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Tecido",
+                "next": ""
+            },
+            {
+                "value": 2,
+                "text": "Tecido 1",
+                "id": "Tecido 3",
+                "next": "textos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Tecido",
+                "next": ""
+            },
+            {
+                "value": 3,
+                "text": "Tecido 1",
+                "id": "Tecido 4",
+                "next": "textos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Tecido",
+                "next": ""
+            },
+            {
+                "value": 4,
+                "text": "Tecido 1",
+                "id": "Tecido 5",
+                "next": "textos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Tecido",
+                "next": ""
+            },
+            {
+                "value": 5,
+                "text": "Tecido 1",
+                "id": "Tecido 6",
+                "next": "textos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Tecido",
+                "next": ""
+            },
+            {
+                "value": 6,
+                "text": "Tecido 1",
+                "id": "Tecido 7",
+                "next": "textos"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Tecido",
+                "next": ""
+            },
+            {
+                "value": 7,
+                "text": "Tecido 1",
+                "id": "Tecido 8",
+                "next": "final"
+            }
+        ],
+        [
+            {
+                "value": "",
+                "id": "",
+                "text": "Selecione a Tecido",
+                "next": ""
+            },
+            {
+                "value": 8,
+                "text": "Tecido 1",
+                "id": "Tecido 1",
+                "next": "final"
+            }
+        ]
+    ]
+}

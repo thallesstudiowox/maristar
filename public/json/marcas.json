@@ -1,0 +1,35 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Marcas",
+    "data": [
+        [
+            {
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            }
+        ],
+        [
+            {
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            },
+            { "id": 1, "text": "marca 1", "next": "tecido" },
+            { "id": 1, "text": "marca 2", "next": "tecido" },
+            { "id": 1, "text": "marca 3", "next": "tecido" },
+            { "id": 1, "text": "marca 4", "next": "tecido" }
+        ],
+        [
+            {
+                "id": "",
+                "text": "Selecione a marca",
+                "next": ""
+            },
+            { "id": 2, "text": "marca 1", "next": "final" },
+            { "id": 2, "text": "marca 2", "next": "final" },
+            { "id": 2, "text": "marca 3", "next": "final" },
+            { "id": 2, "text": "marca 4", "next": "final" }
+        ]
+    ]
+}

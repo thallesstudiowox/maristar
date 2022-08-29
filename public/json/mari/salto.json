@@ -1,0 +1,40 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Modelo Calça",
+    "data": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "id": "",
+                "text": "Selecione o Salto",
+                "value": "",
+                "next": ""
+            },
+            {
+                "value": 8,
+                "id": "Rasteira",
+                "text": "Rasteira",
+                "next": "estilo_salto"
+            },
+            {
+                "value": 8,
+                "id": "Média",
+                "text": "Média",
+                "next": "estilo_salto"
+            },
+            {
+                "value": 8,
+                "id": "Alto",
+                "text": "Alto",
+                "next": "estilo_salto"
+            }
+        ]
+    ]
+}

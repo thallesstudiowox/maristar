@@ -1,0 +1,66 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Categoria",
+    "data": [
+        {
+            "id": "",
+            "value": "",
+            "text": "Selecione a Categoria",
+            "next": ""
+        },
+        {
+            "value": 0,
+            "text": "Calça",
+            "id": "Calça",
+            "next": "estilos"
+        },
+        {
+            "value": 1,
+            "text": "Blusa/Camisa/Body",
+            "id": "Blusa/Camisa/Body",
+            "next": "estilos"
+        },
+        {
+            "value": 2,
+            "text": "Macacão/Macaquinho",
+            "id": "Macacão/Macaquinho",
+            "next": "estilos"
+        },
+        {
+            "value": 3,
+            "text": "Vestido",
+            "id": "Vestido",
+            "next": "estilos"
+        },
+        {
+            "value": 4,
+            "text": "Short",
+            "id": "Short",
+            "next": "estilos"
+        },
+        {
+            "value": 5,
+            "text": "Saia",
+            "id": "Saia",
+            "next": "estilos"
+        },
+        {
+            "value": 6,
+            "text": "Casaco/Colete",
+            "id": "Casaco/Colete",
+            "next": "estilos"
+        },
+        {
+            "value": 7,
+            "text": "Acessório",
+            "id": "Acessório",
+            "next": "estilos"
+        },
+        {
+            "value": 8,
+            "text": "Calçado",
+            "id": "Calçado",
+            "next": "estilos"
+        }
+    ]
+}
