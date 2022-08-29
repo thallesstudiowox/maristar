@@ -10,7 +10,6 @@
         padding-right: 0;
     "
 >
-    -->
     <!-- Logo Start -->
     <div class="logo position-relative">
         <a href="/">
