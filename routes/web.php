@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\InventarioController;
+use App\Http\Controllers\PecasController;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +21,8 @@ use App\Http\Controllers\InventarioController;
 Route::view('webcam', 'webcam');
 // Route::resource('inventario', InventarioController::class)->name('inventario');
 Route::resource('inventario', InventarioController::class, ['names' => 'inventario']);
-
+Route::get("pecas", [PecasController::class, 'index'] )->name('pecas');
+Route::get("peca/{id}", [PecasController::class, 'showPeca'] )->name('pecas.show');
 // Route::get('webcam', [WebcamController::class, 'index']);
 
 

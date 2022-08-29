@@ -7,7 +7,7 @@ use App\Http\Requests\UpdateInventarioRequest;
 use App\Models\Inventario;
 use Illuminate\Support\Str;
 
-class InventarioController extends Controller
+class PecasController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -16,7 +16,17 @@ class InventarioController extends Controller
      */
     public function index()
     {
-        return view('mari.inventario');
+
+        $pecas = Inventario::sortable()->paginate(10);
+        return view('mari.lista-pecas')->with(["pecas"=> $pecas]);
+
+    }
+    public function showPeca($id)
+    {
+
+        $peca = Inventario::find($id);
+
+        return view('mari.pecas')->with(["peca"=> $peca]);
 
     }
 
