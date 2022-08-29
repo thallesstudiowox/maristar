@@ -109,6 +109,6 @@ class PecasController extends Controller
      */
     public function destroy(Inventario $inventario)
     {
-        //
+
     }
 }

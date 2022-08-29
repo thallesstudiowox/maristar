@@ -97,8 +97,21 @@ class InventarioController extends Controller
      * @param  \App\Models\Inventario  $inventario
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Inventario $inventario)
+    public function destroy($id)
     {
-        //
+        $file = Inventario::findOrFail($id);
+        $path = public_path('storage').'/'. json_decode($file->image)->file_path;
+
+        if(\File::exists($path)){
+            \File::delete($path);
+
+            $file->delete();
+
+            $pecas = Inventario::sortable()->paginate(10);
+            return view('mari.lista-pecas')->with(["pecas"=> $pecas]);
+
+        }else{
+            return back()->with('success', 'Arquivo não encontrado.');
+        }
     }
 }
