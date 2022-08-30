@@ -272,8 +272,12 @@
     <div class="menu-container flex-grow-1" style="color: #000 !important">
         <ul id="menu" class="menu">
             <li>
-                <a href="{{ route('salvarpecas.index') }}">
+                <a
+                    href="{{ route('salvarpecas.index') }}"
+                    style="color: #000 !important"
+                >
                     <i
+                        style="color: #000 !important"
                         data-acorn-icon="home"
                         class="icon"
                         data-acorn-size="18"
@@ -282,8 +286,12 @@
                 </a>
             </li>
             <li>
-                <a href="{{ route('listarpecas') }}">
+                <a
+                    href="{{ route('listarpecas') }}"
+                    style="color: #000 !important"
+                >
                     <i
+                        style="color: #000 !important"
                         data-acorn-icon="screen"
                         class="icon"
                         data-acorn-size="18"
