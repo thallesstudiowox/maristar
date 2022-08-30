@@ -296,7 +296,7 @@
     <!-- Menu End -->
 
     <!-- Mobile Buttons Start -->
-    <div class="mobile-buttons-container">
+    <div class="mobile-buttons-container" style="color: #000 !important">
         <!-- Scrollspy Mobile Button Start -->
         <a
             href="#"
@@ -316,7 +316,12 @@
         <!-- Scrollspy Mobile Dropdown End -->
 
         <!-- Menu Button Start -->
-        <a href="#" id="mobileMenuButton" class="menu-button">
+        <a
+            href="#"
+            id="mobileMenuButton"
+            class="menu-button"
+            style="color: #000 !important"
+        >
             <i data-acorn-icon="menu"></i>
         </a>
         <!-- Menu Button End -->
