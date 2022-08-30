@@ -1,0 +1,46 @@
+{
+    "tipo": "dropdown",
+    "nomeTipo": "Estilo Salto",
+    "data": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "id": "",
+                "text": "Selecione o Estilo do Salto",
+                "value": "",
+                "next": ""
+            },
+            {
+                "value": 8,
+                "id": "Flat",
+                "text": "Flat",
+                "next": "tamanho"
+            },
+            {
+                "value": 8,
+                "id": "Plataforma",
+                "text": "Plataforma",
+                "next": "tamanho"
+            },
+            {
+                "value": 8,
+                "id": "Fino",
+                "text": "Fino",
+                "next": "tamanho"
+            },
+            {
+                "value": 8,
+                "id": "Grosso",
+                "text": "Grosso",
+                "next": "tamanho"
+            }
+        ]
+    ]
+}

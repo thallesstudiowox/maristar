@@ -49,6 +49,10 @@ class Select2Controls {
             andamentoEtapas.push(etapa);
             console.log("etapa: " + etapa);
             console.log("id: " + id);
+            if (etapa == "final") {
+                $(".btSalvarPeca").show();
+                return false;
+            }
             $.ajax({
                 type: "GET",
                 url: "json/mari/" + etapa + ".json",
@@ -124,7 +128,13 @@ class Select2Controls {
                                     _divSelect.data("idetapa")
                                 );
                                 idetapa++;
-                                // console.log(idetapa + "__abriu_proximo__");
+                                console.log(
+                                    idetapa +
+                                        "__abriu_proximo__:" +
+                                        result.next +
+                                        "__value__:" +
+                                        result.value
+                                );
                             }
 
                             console.log(idetapa + "_____fim______" + etapa);

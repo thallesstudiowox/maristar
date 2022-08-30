@@ -1,13 +1,13 @@
 {
     "tipo": "dropdown",
-    "nomeTipo": "Modelo Calça",
+    "nomeTipo": "Modelo Saia",
     "data": [
         [],
         [],
         [],
         [
             {
-                "text": "Selecione o Modelo Calça",
+                "text": "Selecione o Modelo Saia",
                 "value": "",
                 "id": "",
                 "next": ""
@@ -79,68 +79,68 @@
             {
                 "value": "",
                 "id": "",
-                "text": "Selecione o Modelo Calça",
+                "text": "Selecione o Modelo Saia",
                 "next": ""
             },
             {
                 "value": 5,
                 "id": "Fendada",
                 "text": "Fendada",
-                "next": "gola"
+                "next": "tamanho"
             },
             {
                 "value": 5,
                 "id": "Sereia",
                 "text": "Sereia",
-                "next": "gola"
+                "next": "tamanho"
             },
             {
                 "value": 5,
                 "id": "Aberta (boneca/godê)",
                 "text": "Aberta (boneca/godê)",
-                "next": "gola"
+                "next": "tamanho"
             },
             {
                 "value": 5,
                 "id": "Reta",
                 "text": "Reta",
-                "next": "gola"
+                "next": "tamanho"
             },
             {
                 "value": 5,
                 "id": "Plissada/Pregas",
                 "text": "Plissada/Pregas",
-                "next": "gola"
+                "next": "tamanho"
             },
             {
                 "value": 5,
                 "id": "Envelope",
                 "text": "Envelope",
-                "next": "gola"
+                "next": "tamanho"
             },
             {
                 "value": 5,
                 "id": "Lápis (secretária)",
                 "text": "Lápis (secretária)",
-                "next": "gola"
+                "next": "tamanho"
             },
             {
                 "value": 5,
                 "id": "Rodada",
                 "text": "Rodada",
-                "next": "gola"
+                "next": "tamanho"
             },
             {
                 "value": 5,
                 "id": "Drapeada",
                 "text": "Drapeada",
-                "next": "gola"
+                "next": "tamanho"
             },
             {
                 "value": 5,
                 "id": "Recortes/Assimétrica",
                 "text": "Recortes/Assimétrica",
-                "next": "gola"
+                "next": "tamanho"
             }
         ],
         [],

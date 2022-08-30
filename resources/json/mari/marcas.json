@@ -1416,199 +1416,199 @@
                 "text": "Selecione a marca",
                 "next": ""
             },
-            { "value": 7, "text": "Afghan", "id": "Afghan", "next": "textos" },
+            { "value": 7, "text": "Afghan", "id": "Afghan", "next": "final" },
             {
                 "value": 7,
                 "text": "Água de Coco",
                 "id": "Água de Coco",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 7, "text": "Amaro", "id": "Amaro", "next": "textos" },
+            { "value": 7, "text": "Amaro", "id": "Amaro", "next": "final" },
             {
                 "value": 7,
                 "text": "American Eagle",
                 "id": "American Eagle",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Amíssima",
                 "id": "Amíssima",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Animale",
                 "id": "Animale",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 7, "text": "Arezzo", "id": "Arezzo", "next": "textos" },
-            { "value": 7, "text": "Ateen", "id": "Ateen", "next": "textos" },
+            { "value": 7, "text": "Arezzo", "id": "Arezzo", "next": "final" },
+            { "value": 7, "text": "Ateen", "id": "Ateen", "next": "final" },
             {
                 "value": 7,
                 "text": "Banana Republic",
                 "id": "Banana Republic",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Bobstore",
                 "id": "Bobstore",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 7, "text": "Bris", "id": "Bris", "next": "textos" },
+            { "value": 7, "text": "Bris", "id": "Bris", "next": "final" },
             {
                 "value": 7,
                 "text": "Burberry",
                 "id": "Burberry",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 7, "text": "ByNV", "id": "ByNV", "next": "textos" },
-            { "value": 7, "text": "Cantão", "id": "Cantão", "next": "textos" },
+            { "value": 7, "text": "ByNV", "id": "ByNV", "next": "final" },
+            { "value": 7, "text": "Cantão", "id": "Cantão", "next": "final" },
             {
                 "value": 7,
                 "text": "Casula Street",
                 "id": "Casula Street",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Cavendish",
                 "id": "Cavendish",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Checklist",
                 "id": "Checklist",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Cia Maritima",
                 "id": "Cia Maritima",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 7, "text": "Cori", "id": "Cori", "next": "textos" },
-            { "value": 7, "text": "Diesel", "id": "Diesel", "next": "textos" },
+            { "value": 7, "text": "Cori", "id": "Cori", "next": "final" },
+            { "value": 7, "text": "Diesel", "id": "Diesel", "next": "final" },
             {
                 "value": 7,
                 "text": "Dress To",
                 "id": "Dress To",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Eclectic",
                 "id": "Eclectic",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 7, "text": "Enjoy", "id": "Enjoy", "next": "textos" },
-            { "value": 7, "text": "Farm", "id": "Farm", "next": "textos" },
-            { "value": 7, "text": "Folic", "id": "Folic", "next": "textos" },
-            { "value": 7, "text": "Folk", "id": "Folk", "next": "textos" },
-            { "value": 7, "text": "FYI", "id": "FYI", "next": "textos" },
-            { "value": 7, "text": "GAP", "id": "GAP", "next": "textos" },
-            { "value": 7, "text": "Garage", "id": "Garage", "next": "textos" },
-            { "value": 7, "text": "GAYA", "id": "GAYA", "next": "textos" },
-            { "value": 7, "text": "Gucci", "id": "Gucci", "next": "textos" },
-            { "value": 7, "text": "Jcrew", "id": "Jcrew", "next": "textos" },
+            { "value": 7, "text": "Enjoy", "id": "Enjoy", "next": "final" },
+            { "value": 7, "text": "Farm", "id": "Farm", "next": "final" },
+            { "value": 7, "text": "Folic", "id": "Folic", "next": "final" },
+            { "value": 7, "text": "Folk", "id": "Folk", "next": "final" },
+            { "value": 7, "text": "FYI", "id": "FYI", "next": "final" },
+            { "value": 7, "text": "GAP", "id": "GAP", "next": "final" },
+            { "value": 7, "text": "Garage", "id": "Garage", "next": "final" },
+            { "value": 7, "text": "GAYA", "id": "GAYA", "next": "final" },
+            { "value": 7, "text": "Gucci", "id": "Gucci", "next": "final" },
+            { "value": 7, "text": "Jcrew", "id": "Jcrew", "next": "final" },
             {
                 "value": 7,
                 "text": "Joie by Ateen",
                 "id": "Joie by Ateen",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Kate Spade",
                 "id": "Kate Spade",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Le Lis Blanc",
                 "id": "Le Lis Blanc",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 7, "text": "Leeloo", "id": "Leeloo", "next": "textos" },
-            { "value": 7, "text": "Levis", "id": "Levis", "next": "textos" },
-            { "value": 7, "text": "Litori", "id": "Litori", "next": "textos" },
+            { "value": 7, "text": "Leeloo", "id": "Leeloo", "next": "final" },
+            { "value": 7, "text": "Levis", "id": "Levis", "next": "final" },
+            { "value": 7, "text": "Litori", "id": "Litori", "next": "final" },
             {
                 "value": 7,
                 "text": "Lou Boutin",
                 "id": "Lou Boutin",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Louis Vuitton",
                 "id": "Louis Vuitton",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 7, "text": "Lusine", "id": "Lusine", "next": "textos" },
+            { "value": 7, "text": "Lusine", "id": "Lusine", "next": "final" },
             {
                 "value": 7,
                 "text": "Maria Filó",
                 "id": "Maria Filó",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Mariazinha",
                 "id": "Mariazinha",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Michael Kors",
                 "id": "Michael Kors",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 7, "text": "Miss B", "id": "Miss B", "next": "textos" },
-            { "value": 7, "text": "Oh Boy", "id": "Oh Boy", "next": "textos" },
-            { "value": 7, "text": "Osklen", "id": "Osklen", "next": "textos" },
-            { "value": 7, "text": "Peeper", "id": "Peeper", "next": "textos" },
-            { "value": 7, "text": "Polo", "id": "Polo", "next": "textos" },
-            { "value": 7, "text": "Prada", "id": "Prada", "next": "textos" },
+            { "value": 7, "text": "Miss B", "id": "Miss B", "next": "final" },
+            { "value": 7, "text": "Oh Boy", "id": "Oh Boy", "next": "final" },
+            { "value": 7, "text": "Osklen", "id": "Osklen", "next": "final" },
+            { "value": 7, "text": "Peeper", "id": "Peeper", "next": "final" },
+            { "value": 7, "text": "Polo", "id": "Polo", "next": "final" },
+            { "value": 7, "text": "Prada", "id": "Prada", "next": "final" },
             {
                 "value": 7,
                 "text": "Ralph Lauren",
                 "id": "Ralph Lauren",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Ray-Ban",
                 "id": "Ray-Ban",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Richards",
                 "id": "Richards",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 7, "text": "Sacada", "id": "Sacada", "next": "textos" },
+            { "value": 7, "text": "Sacada", "id": "Sacada", "next": "final" },
             {
                 "value": 7,
                 "text": "Sales e Solas",
                 "id": "Sales e Solas",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Shoestock",
                 "id": "Shoestock",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 7,
                 "text": "Shoulder",
                 "id": "Shoulder",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 7, "text": "OUTRA", "id": "OUTRA", "next": "textos" }
+            { "value": 7, "text": "OUTRA", "id": "OUTRA", "next": "final" }
         ],
         [
             {
@@ -1617,199 +1617,199 @@
                 "text": "Selecione a marca",
                 "next": ""
             },
-            { "value": 8, "text": "Afghan", "id": "Afghan", "next": "textos" },
+            { "value": 8, "text": "Afghan", "id": "Afghan", "next": "final" },
             {
                 "value": 8,
                 "text": "Água de Coco",
                 "id": "Água de Coco",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 8, "text": "Amaro", "id": "Amaro", "next": "textos" },
+            { "value": 8, "text": "Amaro", "id": "Amaro", "next": "final" },
             {
                 "value": 8,
                 "text": "American Eagle",
                 "id": "American Eagle",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Amíssima",
                 "id": "Amíssima",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Animale",
                 "id": "Animale",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 8, "text": "Arezzo", "id": "Arezzo", "next": "textos" },
-            { "value": 8, "text": "Ateen", "id": "Ateen", "next": "textos" },
+            { "value": 8, "text": "Arezzo", "id": "Arezzo", "next": "final" },
+            { "value": 8, "text": "Ateen", "id": "Ateen", "next": "final" },
             {
                 "value": 8,
                 "text": "Banana Republic",
                 "id": "Banana Republic",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Bobstore",
                 "id": "Bobstore",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 8, "text": "Bris", "id": "Bris", "next": "textos" },
+            { "value": 8, "text": "Bris", "id": "Bris", "next": "final" },
             {
                 "value": 8,
                 "text": "Burberry",
                 "id": "Burberry",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 8, "text": "ByNV", "id": "ByNV", "next": "textos" },
-            { "value": 8, "text": "Cantão", "id": "Cantão", "next": "textos" },
+            { "value": 8, "text": "ByNV", "id": "ByNV", "next": "final" },
+            { "value": 8, "text": "Cantão", "id": "Cantão", "next": "final" },
             {
                 "value": 8,
                 "text": "Casula Street",
                 "id": "Casula Street",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Cavendish",
                 "id": "Cavendish",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Checklist",
                 "id": "Checklist",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Cia Maritima",
                 "id": "Cia Maritima",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 8, "text": "Cori", "id": "Cori", "next": "textos" },
-            { "value": 8, "text": "Diesel", "id": "Diesel", "next": "textos" },
+            { "value": 8, "text": "Cori", "id": "Cori", "next": "final" },
+            { "value": 8, "text": "Diesel", "id": "Diesel", "next": "final" },
             {
                 "value": 8,
                 "text": "Dress To",
                 "id": "Dress To",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Eclectic",
                 "id": "Eclectic",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 8, "text": "Enjoy", "id": "Enjoy", "next": "textos" },
-            { "value": 8, "text": "Farm", "id": "Farm", "next": "textos" },
-            { "value": 8, "text": "Folic", "id": "Folic", "next": "textos" },
-            { "value": 8, "text": "Folk", "id": "Folk", "next": "textos" },
-            { "value": 8, "text": "FYI", "id": "FYI", "next": "textos" },
-            { "value": 8, "text": "GAP", "id": "GAP", "next": "textos" },
-            { "value": 8, "text": "Garage", "id": "Garage", "next": "textos" },
-            { "value": 8, "text": "GAYA", "id": "GAYA", "next": "textos" },
-            { "value": 8, "text": "Gucci", "id": "Gucci", "next": "textos" },
-            { "value": 8, "text": "Jcrew", "id": "Jcrew", "next": "textos" },
+            { "value": 8, "text": "Enjoy", "id": "Enjoy", "next": "final" },
+            { "value": 8, "text": "Farm", "id": "Farm", "next": "final" },
+            { "value": 8, "text": "Folic", "id": "Folic", "next": "final" },
+            { "value": 8, "text": "Folk", "id": "Folk", "next": "final" },
+            { "value": 8, "text": "FYI", "id": "FYI", "next": "final" },
+            { "value": 8, "text": "GAP", "id": "GAP", "next": "final" },
+            { "value": 8, "text": "Garage", "id": "Garage", "next": "final" },
+            { "value": 8, "text": "GAYA", "id": "GAYA", "next": "final" },
+            { "value": 8, "text": "Gucci", "id": "Gucci", "next": "final" },
+            { "value": 8, "text": "Jcrew", "id": "Jcrew", "next": "final" },
             {
                 "value": 8,
                 "text": "Joie by Ateen",
                 "id": "Joie by Ateen",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Kate Spade",
                 "id": "Kate Spade",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Le Lis Blanc",
                 "id": "Le Lis Blanc",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 8, "text": "Leeloo", "id": "Leeloo", "next": "textos" },
-            { "value": 8, "text": "Levis", "id": "Levis", "next": "textos" },
-            { "value": 8, "text": "Litori", "id": "Litori", "next": "textos" },
+            { "value": 8, "text": "Leeloo", "id": "Leeloo", "next": "final" },
+            { "value": 8, "text": "Levis", "id": "Levis", "next": "final" },
+            { "value": 8, "text": "Litori", "id": "Litori", "next": "final" },
             {
                 "value": 8,
                 "text": "Lou Boutin",
                 "id": "Lou Boutin",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Louis Vuitton",
                 "id": "Louis Vuitton",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 8, "text": "Lusine", "id": "Lusine", "next": "textos" },
+            { "value": 8, "text": "Lusine", "id": "Lusine", "next": "final" },
             {
                 "value": 8,
                 "text": "Maria Filó",
                 "id": "Maria Filó",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Mariazinha",
                 "id": "Mariazinha",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Michael Kors",
                 "id": "Michael Kors",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 8, "text": "Miss B", "id": "Miss B", "next": "textos" },
-            { "value": 8, "text": "Oh Boy", "id": "Oh Boy", "next": "textos" },
-            { "value": 8, "text": "Osklen", "id": "Osklen", "next": "textos" },
-            { "value": 8, "text": "Peeper", "id": "Peeper", "next": "textos" },
-            { "value": 8, "text": "Polo", "id": "Polo", "next": "textos" },
-            { "value": 8, "text": "Prada", "id": "Prada", "next": "textos" },
+            { "value": 8, "text": "Miss B", "id": "Miss B", "next": "final" },
+            { "value": 8, "text": "Oh Boy", "id": "Oh Boy", "next": "final" },
+            { "value": 8, "text": "Osklen", "id": "Osklen", "next": "final" },
+            { "value": 8, "text": "Peeper", "id": "Peeper", "next": "final" },
+            { "value": 8, "text": "Polo", "id": "Polo", "next": "final" },
+            { "value": 8, "text": "Prada", "id": "Prada", "next": "final" },
             {
                 "value": 8,
                 "text": "Ralph Lauren",
                 "id": "Ralph Lauren",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Ray-Ban",
                 "id": "Ray-Ban",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Richards",
                 "id": "Richards",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 8, "text": "Sacada", "id": "Sacada", "next": "textos" },
+            { "value": 8, "text": "Sacada", "id": "Sacada", "next": "final" },
             {
                 "value": 8,
                 "text": "Sales e Solas",
                 "id": "Sales e Solas",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Shoestock",
                 "id": "Shoestock",
-                "next": "textos"
+                "next": "final"
             },
             {
                 "value": 8,
                 "text": "Shoulder",
                 "id": "Shoulder",
-                "next": "textos"
+                "next": "final"
             },
-            { "value": 8, "text": "OUTRA", "id": "OUTRA", "next": "textos" }
+            { "value": 8, "text": "OUTRA", "id": "OUTRA", "next": "final" }
         ]
     ]
 }

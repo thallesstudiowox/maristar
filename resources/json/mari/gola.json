@@ -4,7 +4,7 @@
     "data": [
         [
             {
-                "value": 0,
+                "value": "",
                 "text": "Selecione a Gola",
                 "id": "",
                 "next": ""
@@ -12,7 +12,7 @@
         ],
         [
             {
-                "value": 1,
+                "value": "",
                 "text": "Selecione a Gola",
                 "id": "",
                 "next": ""
@@ -44,7 +44,7 @@
         ],
         [
             {
-                "value": 2,
+                "value": "",
                 "text": "Selecione a Gola",
                 "id": "",
                 "next": ""
@@ -53,30 +53,30 @@
                 "value": 2,
                 "text": "V",
                 "id": "V",
-                "next": "modelo_manga"
+                "next": "modelo_calca"
             },
             {
                 "value": 2,
                 "text": "U",
                 "id": "U",
-                "next": "modelo_manga"
+                "next": "modelo_calca"
             },
             {
                 "value": 2,
                 "text": "Decotada Frente",
                 "id": "Decotada Frente",
-                "next": "modelo_manga"
+                "next": "modelo_calca"
             },
             {
                 "value": 2,
                 "text": "Decotada Costas",
                 "id": "Decotada Costas",
-                "next": "modelo_manga"
+                "next": "modelo_calca"
             }
         ],
         [
             {
-                "value": 3,
+                "value": "",
                 "text": "Selecione a Gola",
                 "id": "",
                 "next": ""
@@ -106,49 +106,35 @@
                 "next": "tamanho"
             }
         ],
+        [],
+        [],
         [
             {
-                "value": 0,
-                "text": "Selecione a Gola",
-                "id": "",
-                "next": ""
-            }
-        ],
-        [
-            {
-                "value": 0,
-                "text": "Selecione a Gola",
-                "id": "",
-                "next": ""
-            }
-        ],
-        [
-            {
-                "value": 3,
+                "value": "",
                 "text": "Selecione a Gola",
                 "id": "",
                 "next": ""
             },
             {
-                "value": 3,
+                "value": 6,
                 "text": "V",
                 "id": "V",
                 "next": "tamanho"
             },
             {
-                "value": 3,
+                "value": 6,
                 "text": "U",
                 "id": "U",
                 "next": "tamanho"
             },
             {
-                "value": 3,
+                "value": 6,
                 "text": "Decotada Frente",
                 "id": "Decotada Frente",
                 "next": "tamanho"
             },
             {
-                "value": 3,
+                "value": 6,
                 "text": "Decotada Costas",
                 "id": "Decotada Costas",
                 "next": "tamanho"

@@ -150,11 +150,11 @@
                 "text": "Selecione o tamanho",
                 "next": ""
             },
-            { "value": 8, "id": "35", "text": "PP", "next": "cor" },
-            { "value": 8, "id": "36", "text": "P", "next": "cor" },
-            { "value": 8, "id": "37", "text": "M", "next": "cor" },
-            { "value": 8, "id": "38", "text": "G", "next": "cor" },
-            { "value": 8, "id": "39", "text": "GG", "next": "cor" }
+            { "value": 8, "id": "35", "text": "35", "next": "cor" },
+            { "value": 8, "id": "36", "text": "36", "next": "cor" },
+            { "value": 8, "id": "37", "text": "37", "next": "cor" },
+            { "value": 8, "id": "38", "text": "38", "next": "cor" },
+            { "value": 8, "id": "39", "text": "39", "next": "cor" }
         ]
     ]
 }

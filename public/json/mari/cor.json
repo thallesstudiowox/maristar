@@ -3,7 +3,7 @@
     "nomeTipo": "Cor",
     "data": [
         [
-            { "value": "", "id": "", "text": "Selecione o Cor", "next": "" },
+            { "value": "", "id": "", "text": "Selecione a Cor", "next": "" },
             { "value": 0, "id": "Branco", "text": "Branco", "next": "marcas" },
             { "value": 0, "id": "Preto", "text": "Preto", "next": "marcas" },
             { "value": 0, "id": "Azul", "text": "Azul", "next": "marcas" },
@@ -81,7 +81,7 @@
             }
         ],
         [
-            { "id": "", "id": "", "text": "Selecione o Cor", "next": "" },
+            { "id": "", "id": "", "text": "Selecione a Cor", "next": "" },
             { "value": 1, "id": "Branco", "text": "Branco", "next": "marcas" },
             { "value": 1, "id": "Preto", "text": "Preto", "next": "marcas" },
             { "value": 1, "id": "Azul", "text": "Azul", "next": "marcas" },
@@ -159,7 +159,7 @@
             }
         ],
         [
-            { "value": "", "id": "", "text": "Selecione o Cor", "next": "" },
+            { "value": "", "id": "", "text": "Selecione a Cor", "next": "" },
             { "value": 2, "id": "Branco", "text": "Branco", "next": "marcas" },
             { "value": 2, "id": "Preto", "text": "Preto", "next": "marcas" },
             { "value": 2, "id": "Azul", "text": "Azul", "next": "marcas" },
@@ -240,7 +240,7 @@
             {
                 "value": "",
                 "id": "",
-                "text": "Selecione o Cor",
+                "text": "Selecione a Cor",
                 "next": ""
             },
             { "value": 3, "id": "Branco", "text": "Branco", "next": "marcas" },
@@ -323,7 +323,7 @@
             {
                 "value": "",
                 "id": "",
-                "text": "Selecione o Cor",
+                "text": "Selecione a Cor",
                 "next": ""
             },
             { "value": 4, "id": "Branco", "text": "Branco", "next": "marcas" },
@@ -407,7 +407,7 @@
             {
                 "value": "",
                 "id": "",
-                "text": "Selecione o Cor",
+                "text": "Selecione a Cor",
                 "next": ""
             },
             { "value": 5, "id": "Branco", "text": "Branco", "next": "marcas" },
@@ -491,7 +491,7 @@
             {
                 "value": "",
                 "id": "",
-                "text": "Selecione o Cor",
+                "text": "Selecione a Cor",
                 "next": ""
             },
             { "value": 6, "id": "Branco", "text": "Branco", "next": "marcas" },
@@ -575,7 +575,7 @@
             {
                 "value": "",
                 "id": "",
-                "text": "Selecione o Cor",
+                "text": "Selecione a Cor",
                 "next": ""
             },
             { "value": 7, "id": "Branco", "text": "Branco", "next": "marcas" },
@@ -659,7 +659,7 @@
             {
                 "value": "",
                 "id": "",
-                "text": "Selecione o Cor",
+                "text": "Selecione a Cor",
                 "next": ""
             },
             { "value": 8, "id": "Branco", "text": "Branco", "next": "marcas" },

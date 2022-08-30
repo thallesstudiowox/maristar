@@ -46,15 +46,30 @@
                 "text": "Selecione o fecho",
                 "next": ""
             },
-            { "value": 5, "id": "Ziper", "text": "Ziper", "next": "modelo" },
+            {
+                "value": 5,
+                "id": "Ziper",
+                "text": "Ziper",
+                "next": "modelo_saia"
+            },
             {
                 "value": 5,
                 "id": "Elástico",
                 "text": "Elástico",
-                "next": "modelo"
+                "next": "modelo_saia"
             },
-            { "value": 5, "id": "Botões", "text": "Botões", "next": "modelo" },
-            { "value": 5, "id": "Cinto", "text": "Cinto", "next": "modelo" }
+            {
+                "value": 5,
+                "id": "Botões",
+                "text": "Botões",
+                "next": "modelo_saia"
+            },
+            {
+                "value": 5,
+                "id": "Cinto",
+                "text": "Cinto",
+                "next": "modelo_saia"
+            }
         ],
         [
             {
