@@ -22,7 +22,8 @@ $description= 'Peça da Maristar.'; $breadcrumbs =
             <!-- Title Start -->
             <section class="scroll-section" id="title">
                 <div class="page-title-container">
-                    <h1 class="mb-0 pb-0 display-4">{{ $title }}</h1>
+                    <a href="{{route('listarpecas')}}">Voltar para lista de peças</a>
+                    <!-- <h1 class="mb-0 pb-0 display-4">{{ $title }}</h1> -->
                     <!-- @include('_layout.breadcrumb',['breadcrumbs'=>$breadcrumbs]) -->
                 </div>
             </section>

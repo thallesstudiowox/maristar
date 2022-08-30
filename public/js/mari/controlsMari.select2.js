@@ -47,13 +47,15 @@ class Select2Controls {
             // console.log(prevDiv);
             $(prevDiv).after(base);
             andamentoEtapas.push(etapa);
-            // console.log(etapa);
+            console.log("etapa: " + etapa);
+            console.log("id: " + id);
             $.ajax({
                 type: "GET",
                 url: "json/mari/" + etapa + ".json",
             }).then(function (data) {
                 // console.log(data.tipo);
                 if (data.tipo == "texto") {
+                    $(".btSalvarPeca").show();
                     let _html = "";
                     let cat = data.categorias[id];
 
@@ -82,6 +84,7 @@ class Select2Controls {
                     prevDiv = "#" + etapa;
                     $(prevDiv).html(_html);
                 } else {
+                    $(".btSalvarPeca").hide();
                     let _html = "";
                     _html += '<h2 class="small-title">';
                     _html += data.nomeTipo;
@@ -112,7 +115,8 @@ class Select2Controls {
                         templateSelection: function formatResultSelection(
                             result
                         ) {
-                            // console.log(result);
+                            // console.log("id: " + result.id);
+                            // console.log("id.length: " + result.id.length);
                             if (result.id != "") {
                                 createOpcao(
                                     result.next,
@@ -120,9 +124,10 @@ class Select2Controls {
                                     _divSelect.data("idetapa")
                                 );
                                 idetapa++;
+                                // console.log(idetapa + "__abriu_proximo__");
                             }
 
-                            console.log("_____fim______");
+                            console.log(idetapa + "_____fim______" + etapa);
                             return result.text;
                         },
                     });

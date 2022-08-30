@@ -16112,6 +16112,11 @@ li {
   list-style-type: none;
 }
 
-#mobileMenuButton {
+#mobileMenuButton,
+#mobileMenuButton a {
   color: #000 !important;
+}
+
+.btn {
+  padding: 10px !important;
 }

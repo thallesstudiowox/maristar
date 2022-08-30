@@ -272,26 +272,23 @@
     <div class="menu-container flex-grow-1" style="color: #000 !important">
         <ul id="menu" class="menu">
             <li>
-                <a
-                    href="{{ route('inventario.index') }}"
-                    data-href="/inventario"
-                >
+                <a href="{{ route('salvarpecas.index') }}">
                     <i
                         data-acorn-icon="home"
                         class="icon"
                         data-acorn-size="18"
                     ></i>
-                    <span class="label">Inventário</span>
+                    <span class="label">Salvar Peças</span>
                 </a>
             </li>
             <li>
-                <a href="{{ route('pecas') }}" data-href="/pecas">
+                <a href="{{ route('listarpecas') }}">
                     <i
                         data-acorn-icon="screen"
                         class="icon"
                         data-acorn-size="18"
                     ></i>
-                    <span class="label">pecas</span>
+                    <span class="label">Listar Peças</span>
                 </a>
             </li>
         </ul>

@@ -4,40 +4,40 @@
     "data": [
         [
             {
-                "id": "",
                 "value": "",
+                "id": "",
                 "text": "Selecione o Modelo Manga",
                 "next": ""
             }
         ],
         [
             {
-                "id": "",
                 "value": "",
+                "id": "",
                 "text": "Selecione o Modelo Manga",
                 "next": ""
             },
             {
-                "id": 1,
-                "value": "Alcinha/Regata 1",
+                "value": 1,
+                "id": "Alcinha/Regata 1",
                 "text": "Alcinha/Regata 1",
                 "next": "gola"
             },
             {
-                "id": 1,
-                "value": "Manga Curta 1",
+                "value": 1,
+                "id": "Manga Curta 1",
                 "text": "Manga Curta 1",
                 "next": "gola"
             },
             {
-                "id": 1,
-                "value": "Manga 3/4 1",
+                "value": 1,
+                "id": "Manga 3/4 1",
                 "text": "Manga 3/4 1",
                 "next": "gola"
             },
             {
-                "id": 1,
-                "value": "Manga Longa 1",
+                "value": 1,
+                "id": "Manga Longa 1",
                 "text": "Manga Longa 1",
                 "next": "gola"
             }
@@ -45,31 +45,31 @@
         [
             {
                 "id": "",
-                "text": "Selecione o Modelo Manga",
-                "value": "",
+                "valuext": "Selecione o Modelo Manga",
+                "id": "",
                 "next": ""
             },
             {
-                "id": 2,
-                "value": "Alcinha/Regata",
+                "value": 2,
+                "id": "Alcinha/Regata",
                 "text": "Alcinha/Regata",
                 "next": "gola"
             },
             {
-                "id": 2,
-                "value": "Manga Curta",
+                "value": 2,
+                "id": "Manga Curta",
                 "text": "Manga Curta",
                 "next": "gola"
             },
             {
-                "id": 2,
-                "value": "Manga 3/4",
+                "value": 2,
+                "id": "Manga 3/4",
                 "text": "Manga 3/4",
                 "next": "gola"
             },
             {
-                "id": 2,
-                "value": "Manga Longa",
+                "value": 2,
+                "id": "Manga Longa",
                 "text": "Manga Longa",
                 "next": "gola"
             }
@@ -77,31 +77,31 @@
         [
             {
                 "id": "",
-                "text": "Selecione o Modelo Manga",
-                "value": "",
+                "valuext": "Selecione o Modelo Manga",
+                "id": "",
                 "next": ""
             },
             {
-                "id": 3,
-                "value": "Alcinha/Regata",
+                "value": 3,
+                "id": "Alcinha/Regata",
                 "text": "Alcinha/Regata",
                 "next": "modelo_saia"
             },
             {
-                "id": 3,
-                "value": "Manga Curta",
+                "value": 3,
+                "id": "Manga Curta",
                 "text": "Manga Curta",
                 "next": "modelo_saia"
             },
             {
-                "id": 3,
-                "value": "Manga 3/4",
+                "value": 3,
+                "id": "Manga 3/4",
                 "text": "Manga 3/4",
                 "next": "modelo_saia"
             },
             {
-                "id": 3,
-                "value": "Manga Longa",
+                "value": 3,
+                "id": "Manga Longa",
                 "text": "Manga Longa",
                 "next": "modelo_saia"
             }
@@ -110,26 +110,26 @@
         [{}],
         [
             {
-                "id": 6,
-                "value": "Regata",
+                "value": 6,
+                "id": "Regata",
                 "text": "Regata",
                 "next": "fecho"
             },
             {
-                "id": 6,
-                "value": "Manga Curta",
+                "value": 6,
+                "id": "Manga Curta",
                 "text": "Manga Curta",
                 "next": "fecho"
             },
             {
-                "id": 6,
-                "value": "Manga 3/4",
+                "value": 6,
+                "id": "Manga 3/4",
                 "text": "Manga 3/4",
                 "next": "fecho"
             },
             {
-                "id": 6,
-                "value": "Manga Longa",
+                "value": 6,
+                "id": "Manga Longa",
                 "text": "Manga Longa",
                 "next": "fecho"
             }

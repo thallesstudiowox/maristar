@@ -64,7 +64,7 @@ class PecasController extends Controller
         $dataSave['image'] = json_encode($fileUpload);
 
         Inventario::create($dataSave);
-           return redirect()->route('inventario.index')->with('success','Arquivos salvos com sucesso.');
+           return redirect()->route('salvarpecas.index')->with('success','Arquivos salvos com sucesso.');
     }
 
     /**

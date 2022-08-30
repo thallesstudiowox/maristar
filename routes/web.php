@@ -20,13 +20,13 @@ use App\Http\Controllers\PecasController;
 // Route::post('/subir-arquivo', [FileController::class, 'fileUpload'])->middleware(['auth'])->name('arquivos.upload');
 Route::view('webcam', 'webcam');
 // Route::resource('inventario', InventarioController::class)->name('inventario');
-Route::resource('inventario', InventarioController::class, ['names' => 'inventario']);
-Route::get("pecas", [PecasController::class, 'index'] )->name('pecas');
+Route::resource('salvarpecas', InventarioController::class, ['names' => 'salvarpecas']);
+Route::get("listarpecas", [PecasController::class, 'index'] )->name('listarpecas');
 Route::get("peca/{id}", [PecasController::class, 'showPeca'] )->name('pecas.show');
 // Route::get('webcam', [WebcamController::class, 'index']);
 
 
-//Route::redirect('/', '/inventario');
+Route::redirect('/', '/salvarpecas');
 
 
 /*

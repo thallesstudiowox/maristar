@@ -1,5 +1,5 @@
-@php $html_tag_data = ["scrollspy"=>"false"]; $title = 'Inventário';
-$description= 'Criação de inventário da Maristar.'; $breadcrumbs =
+@php $html_tag_data = ["scrollspy"=>"false"]; $title = 'Inventário Maristar';
+$description= 'Inventário Maristar.'; $breadcrumbs =
 ["/"=>"Home","/Interface"=>"Interface","/Interface/Forms"=>"Forms","/Interface/Forms/Controls"=>"Controls"]
 @endphp @extends('layout',['html_tag_data'=>$html_tag_data,
 'title'=>$title,'description'=>$description]) @section('css')
@@ -19,7 +19,7 @@ $description= 'Criação de inventário da Maristar.'; $breadcrumbs =
 <div class="container">
     <div class="row">
         <div class="col">
-            <!-- Title Start -->
+            <!-- Title Start
             <section class="scroll-section" id="title">
                 <div class="page-title-container">
                     <h1 class="mb-0 pb-0 display-4">{{ $title }}</h1>
@@ -35,7 +35,7 @@ $description= 'Criação de inventário da Maristar.'; $breadcrumbs =
                     >
                         <div class="p-6 bg-white border-b border-gray-200">
                             <form
-                                action="{{ route('inventario.store') }}"
+                                action="{{ route('salvarpecas.store') }}"
                                 method="post"
                                 enctype="multipart/form-data"
                             >
@@ -62,9 +62,9 @@ $description= 'Criação de inventário da Maristar.'; $breadcrumbs =
                                         id="FileUpload"
                                         class="btn btn-primary btn-block mt-4"
                                     >
-                                        <label for="inputImage" class="btn"
-                                            >Clique para selecionar ou tirar uma
-                                            foto</label
+                                        <label for="inputImage"
+                                            >Clique para selecionar<br />ou
+                                            tirar uma foto</label
                                         >
 
                                         <input
@@ -83,7 +83,7 @@ $description= 'Criação de inventário da Maristar.'; $breadcrumbs =
 
                                     <div class="w-100">
                                         <textarea
-                                            placeholder="Escreva aqui o descritivo da peça"
+                                            placeholder="Escreva aqui o descritivo"
                                             class="form-control"
                                             name="descritivo"
                                             rows="3"
@@ -105,7 +105,7 @@ $description= 'Criação de inventário da Maristar.'; $breadcrumbs =
                                 <button
                                     type="submit"
                                     name="submit"
-                                    class="btn btn-primary btn-block mt-4"
+                                    class="btn btn-primary btn-block mt-4 btSalvarPeca"
                                 >
                                     Salvar Peça
                                 </button>

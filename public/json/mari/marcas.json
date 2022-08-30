@@ -9,12 +9,199 @@
                 "text": "Selecione a marca",
                 "next": ""
             },
+            { "value": 0, "text": "Afghan", "id": "Afghan", "next": "tecidos" },
             {
                 "value": 0,
-                "text": "marca 1",
-                "id": "marca 1",
+                "text": "Água de Coco",
+                "id": "Água de Coco",
                 "next": "tecidos"
-            }
+            },
+            { "value": 0, "text": "Amaro", "id": "Amaro", "next": "tecidos" },
+            {
+                "value": 0,
+                "text": "American Eagle",
+                "id": "American Eagle",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Amíssima",
+                "id": "Amíssima",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Animale",
+                "id": "Animale",
+                "next": "tecidos"
+            },
+            { "value": 0, "text": "Arezzo", "id": "Arezzo", "next": "tecidos" },
+            { "value": 0, "text": "Ateen", "id": "Ateen", "next": "tecidos" },
+            {
+                "value": 0,
+                "text": "Banana Republic",
+                "id": "Banana Republic",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Bobstore",
+                "id": "Bobstore",
+                "next": "tecidos"
+            },
+            { "value": 0, "text": "Bris", "id": "Bris", "next": "tecidos" },
+            {
+                "value": 0,
+                "text": "Burberry",
+                "id": "Burberry",
+                "next": "tecidos"
+            },
+            { "value": 0, "text": "ByNV", "id": "ByNV", "next": "tecidos" },
+            { "value": 0, "text": "Cantão", "id": "Cantão", "next": "tecidos" },
+            {
+                "value": 0,
+                "text": "Casula Street",
+                "id": "Casula Street",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Cavendish",
+                "id": "Cavendish",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Checklist",
+                "id": "Checklist",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Cia Maritima",
+                "id": "Cia Maritima",
+                "next": "tecidos"
+            },
+            { "value": 0, "text": "Cori", "id": "Cori", "next": "tecidos" },
+            { "value": 0, "text": "Diesel", "id": "Diesel", "next": "tecidos" },
+            {
+                "value": 0,
+                "text": "Dress To",
+                "id": "Dress To",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Eclectic",
+                "id": "Eclectic",
+                "next": "tecidos"
+            },
+            { "value": 0, "text": "Enjoy", "id": "Enjoy", "next": "tecidos" },
+            { "value": 0, "text": "Farm", "id": "Farm", "next": "tecidos" },
+            { "value": 0, "text": "Folic", "id": "Folic", "next": "tecidos" },
+            { "value": 0, "text": "Folk", "id": "Folk", "next": "tecidos" },
+            { "value": 0, "text": "FYI", "id": "FYI", "next": "tecidos" },
+            { "value": 0, "text": "GAP", "id": "GAP", "next": "tecidos" },
+            { "value": 0, "text": "Garage", "id": "Garage", "next": "tecidos" },
+            { "value": 0, "text": "GAYA", "id": "GAYA", "next": "tecidos" },
+            { "value": 0, "text": "Gucci", "id": "Gucci", "next": "tecidos" },
+            { "value": 0, "text": "Jcrew", "id": "Jcrew", "next": "tecidos" },
+            {
+                "value": 0,
+                "text": "Joie by Ateen",
+                "id": "Joie by Ateen",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Kate Spade",
+                "id": "Kate Spade",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Le Lis Blanc",
+                "id": "Le Lis Blanc",
+                "next": "tecidos"
+            },
+            { "value": 0, "text": "Leeloo", "id": "Leeloo", "next": "tecidos" },
+            { "value": 0, "text": "Levis", "id": "Levis", "next": "tecidos" },
+            { "value": 0, "text": "Litori", "id": "Litori", "next": "tecidos" },
+            {
+                "value": 0,
+                "text": "Lou Boutin",
+                "id": "Lou Boutin",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Louis Vuitton",
+                "id": "Louis Vuitton",
+                "next": "tecidos"
+            },
+            { "value": 0, "text": "Lusine", "id": "Lusine", "next": "tecidos" },
+            {
+                "value": 0,
+                "text": "Maria Filó",
+                "id": "Maria Filó",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Mariazinha",
+                "id": "Mariazinha",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Michael Kors",
+                "id": "Michael Kors",
+                "next": "tecidos"
+            },
+            { "value": 0, "text": "Miss B", "id": "Miss B", "next": "tecidos" },
+            { "value": 0, "text": "Oh Boy", "id": "Oh Boy", "next": "tecidos" },
+            { "value": 0, "text": "Osklen", "id": "Osklen", "next": "tecidos" },
+            { "value": 0, "text": "Peeper", "id": "Peeper", "next": "tecidos" },
+            { "value": 0, "text": "Polo", "id": "Polo", "next": "tecidos" },
+            { "value": 0, "text": "Prada", "id": "Prada", "next": "tecidos" },
+            {
+                "value": 0,
+                "text": "Ralph Lauren",
+                "id": "Ralph Lauren",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Ray-Ban",
+                "id": "Ray-Ban",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Richards",
+                "id": "Richards",
+                "next": "tecidos"
+            },
+            { "value": 0, "text": "Sacada", "id": "Sacada", "next": "tecidos" },
+            {
+                "value": 0,
+                "text": "Sales e Solas",
+                "id": "Sales e Solas",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Shoestock",
+                "id": "Shoestock",
+                "next": "tecidos"
+            },
+            {
+                "value": 0,
+                "text": "Shoulder",
+                "id": "Shoulder",
+                "next": "tecidos"
+            },
+            { "value": 0, "text": "OUTRA", "id": "OUTRA", "next": "tecidos" }
         ],
         [
             {
@@ -22,13 +209,200 @@
                 "id": "",
                 "text": "Selecione a marca",
                 "next": ""
+            },
+            { "value": 1, "text": "Afghan", "id": "Afghan", "next": "tecidos" },
+            {
+                "value": 1,
+                "text": "Água de Coco",
+                "id": "Água de Coco",
+                "next": "tecidos"
+            },
+            { "value": 1, "text": "Amaro", "id": "Amaro", "next": "tecidos" },
+            {
+                "value": 1,
+                "text": "American Eagle",
+                "id": "American Eagle",
+                "next": "tecidos"
             },
             {
                 "value": 1,
-                "text": "marca 1",
-                "id": "marca 2",
+                "text": "Amíssima",
+                "id": "Amíssima",
                 "next": "tecidos"
-            }
+            },
+            {
+                "value": 1,
+                "text": "Animale",
+                "id": "Animale",
+                "next": "tecidos"
+            },
+            { "value": 1, "text": "Arezzo", "id": "Arezzo", "next": "tecidos" },
+            { "value": 1, "text": "Ateen", "id": "Ateen", "next": "tecidos" },
+            {
+                "value": 1,
+                "text": "Banana Republic",
+                "id": "Banana Republic",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Bobstore",
+                "id": "Bobstore",
+                "next": "tecidos"
+            },
+            { "value": 1, "text": "Bris", "id": "Bris", "next": "tecidos" },
+            {
+                "value": 1,
+                "text": "Burberry",
+                "id": "Burberry",
+                "next": "tecidos"
+            },
+            { "value": 1, "text": "ByNV", "id": "ByNV", "next": "tecidos" },
+            { "value": 1, "text": "Cantão", "id": "Cantão", "next": "tecidos" },
+            {
+                "value": 1,
+                "text": "Casula Street",
+                "id": "Casula Street",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Cavendish",
+                "id": "Cavendish",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Checklist",
+                "id": "Checklist",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Cia Maritima",
+                "id": "Cia Maritima",
+                "next": "tecidos"
+            },
+            { "value": 1, "text": "Cori", "id": "Cori", "next": "tecidos" },
+            { "value": 1, "text": "Diesel", "id": "Diesel", "next": "tecidos" },
+            {
+                "value": 1,
+                "text": "Dress To",
+                "id": "Dress To",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Eclectic",
+                "id": "Eclectic",
+                "next": "tecidos"
+            },
+            { "value": 1, "text": "Enjoy", "id": "Enjoy", "next": "tecidos" },
+            { "value": 1, "text": "Farm", "id": "Farm", "next": "tecidos" },
+            { "value": 1, "text": "Folic", "id": "Folic", "next": "tecidos" },
+            { "value": 1, "text": "Folk", "id": "Folk", "next": "tecidos" },
+            { "value": 1, "text": "FYI", "id": "FYI", "next": "tecidos" },
+            { "value": 1, "text": "GAP", "id": "GAP", "next": "tecidos" },
+            { "value": 1, "text": "Garage", "id": "Garage", "next": "tecidos" },
+            { "value": 1, "text": "GAYA", "id": "GAYA", "next": "tecidos" },
+            { "value": 1, "text": "Gucci", "id": "Gucci", "next": "tecidos" },
+            { "value": 1, "text": "Jcrew", "id": "Jcrew", "next": "tecidos" },
+            {
+                "value": 1,
+                "text": "Joie by Ateen",
+                "id": "Joie by Ateen",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Kate Spade",
+                "id": "Kate Spade",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Le Lis Blanc",
+                "id": "Le Lis Blanc",
+                "next": "tecidos"
+            },
+            { "value": 1, "text": "Leeloo", "id": "Leeloo", "next": "tecidos" },
+            { "value": 1, "text": "Levis", "id": "Levis", "next": "tecidos" },
+            { "value": 1, "text": "Litori", "id": "Litori", "next": "tecidos" },
+            {
+                "value": 1,
+                "text": "Lou Boutin",
+                "id": "Lou Boutin",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Louis Vuitton",
+                "id": "Louis Vuitton",
+                "next": "tecidos"
+            },
+            { "value": 1, "text": "Lusine", "id": "Lusine", "next": "tecidos" },
+            {
+                "value": 1,
+                "text": "Maria Filó",
+                "id": "Maria Filó",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Mariazinha",
+                "id": "Mariazinha",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Michael Kors",
+                "id": "Michael Kors",
+                "next": "tecidos"
+            },
+            { "value": 1, "text": "Miss B", "id": "Miss B", "next": "tecidos" },
+            { "value": 1, "text": "Oh Boy", "id": "Oh Boy", "next": "tecidos" },
+            { "value": 1, "text": "Osklen", "id": "Osklen", "next": "tecidos" },
+            { "value": 1, "text": "Peeper", "id": "Peeper", "next": "tecidos" },
+            { "value": 1, "text": "Polo", "id": "Polo", "next": "tecidos" },
+            { "value": 1, "text": "Prada", "id": "Prada", "next": "tecidos" },
+            {
+                "value": 1,
+                "text": "Ralph Lauren",
+                "id": "Ralph Lauren",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Ray-Ban",
+                "id": "Ray-Ban",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Richards",
+                "id": "Richards",
+                "next": "tecidos"
+            },
+            { "value": 1, "text": "Sacada", "id": "Sacada", "next": "tecidos" },
+            {
+                "value": 1,
+                "text": "Sales e Solas",
+                "id": "Sales e Solas",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Shoestock",
+                "id": "Shoestock",
+                "next": "tecidos"
+            },
+            {
+                "value": 1,
+                "text": "Shoulder",
+                "id": "Shoulder",
+                "next": "tecidos"
+            },
+            { "value": 1, "text": "OUTRA", "id": "OUTRA", "next": "tecidos" }
         ],
         [
             {
@@ -36,13 +410,200 @@
                 "id": "",
                 "text": "Selecione a marca",
                 "next": ""
+            },
+            { "value": 2, "text": "Afghan", "id": "Afghan", "next": "tecidos" },
+            {
+                "value": 2,
+                "text": "Água de Coco",
+                "id": "Água de Coco",
+                "next": "tecidos"
+            },
+            { "value": 2, "text": "Amaro", "id": "Amaro", "next": "tecidos" },
+            {
+                "value": 2,
+                "text": "American Eagle",
+                "id": "American Eagle",
+                "next": "tecidos"
             },
             {
                 "value": 2,
-                "text": "marca 1",
-                "id": "marca 3",
+                "text": "Amíssima",
+                "id": "Amíssima",
                 "next": "tecidos"
-            }
+            },
+            {
+                "value": 2,
+                "text": "Animale",
+                "id": "Animale",
+                "next": "tecidos"
+            },
+            { "value": 2, "text": "Arezzo", "id": "Arezzo", "next": "tecidos" },
+            { "value": 2, "text": "Ateen", "id": "Ateen", "next": "tecidos" },
+            {
+                "value": 2,
+                "text": "Banana Republic",
+                "id": "Banana Republic",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Bobstore",
+                "id": "Bobstore",
+                "next": "tecidos"
+            },
+            { "value": 2, "text": "Bris", "id": "Bris", "next": "tecidos" },
+            {
+                "value": 2,
+                "text": "Burberry",
+                "id": "Burberry",
+                "next": "tecidos"
+            },
+            { "value": 2, "text": "ByNV", "id": "ByNV", "next": "tecidos" },
+            { "value": 2, "text": "Cantão", "id": "Cantão", "next": "tecidos" },
+            {
+                "value": 2,
+                "text": "Casula Street",
+                "id": "Casula Street",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Cavendish",
+                "id": "Cavendish",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Checklist",
+                "id": "Checklist",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Cia Maritima",
+                "id": "Cia Maritima",
+                "next": "tecidos"
+            },
+            { "value": 2, "text": "Cori", "id": "Cori", "next": "tecidos" },
+            { "value": 2, "text": "Diesel", "id": "Diesel", "next": "tecidos" },
+            {
+                "value": 2,
+                "text": "Dress To",
+                "id": "Dress To",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Eclectic",
+                "id": "Eclectic",
+                "next": "tecidos"
+            },
+            { "value": 2, "text": "Enjoy", "id": "Enjoy", "next": "tecidos" },
+            { "value": 2, "text": "Farm", "id": "Farm", "next": "tecidos" },
+            { "value": 2, "text": "Folic", "id": "Folic", "next": "tecidos" },
+            { "value": 2, "text": "Folk", "id": "Folk", "next": "tecidos" },
+            { "value": 2, "text": "FYI", "id": "FYI", "next": "tecidos" },
+            { "value": 2, "text": "GAP", "id": "GAP", "next": "tecidos" },
+            { "value": 2, "text": "Garage", "id": "Garage", "next": "tecidos" },
+            { "value": 2, "text": "GAYA", "id": "GAYA", "next": "tecidos" },
+            { "value": 2, "text": "Gucci", "id": "Gucci", "next": "tecidos" },
+            { "value": 2, "text": "Jcrew", "id": "Jcrew", "next": "tecidos" },
+            {
+                "value": 2,
+                "text": "Joie by Ateen",
+                "id": "Joie by Ateen",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Kate Spade",
+                "id": "Kate Spade",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Le Lis Blanc",
+                "id": "Le Lis Blanc",
+                "next": "tecidos"
+            },
+            { "value": 2, "text": "Leeloo", "id": "Leeloo", "next": "tecidos" },
+            { "value": 2, "text": "Levis", "id": "Levis", "next": "tecidos" },
+            { "value": 2, "text": "Litori", "id": "Litori", "next": "tecidos" },
+            {
+                "value": 2,
+                "text": "Lou Boutin",
+                "id": "Lou Boutin",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Louis Vuitton",
+                "id": "Louis Vuitton",
+                "next": "tecidos"
+            },
+            { "value": 2, "text": "Lusine", "id": "Lusine", "next": "tecidos" },
+            {
+                "value": 2,
+                "text": "Maria Filó",
+                "id": "Maria Filó",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Mariazinha",
+                "id": "Mariazinha",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Michael Kors",
+                "id": "Michael Kors",
+                "next": "tecidos"
+            },
+            { "value": 2, "text": "Miss B", "id": "Miss B", "next": "tecidos" },
+            { "value": 2, "text": "Oh Boy", "id": "Oh Boy", "next": "tecidos" },
+            { "value": 2, "text": "Osklen", "id": "Osklen", "next": "tecidos" },
+            { "value": 2, "text": "Peeper", "id": "Peeper", "next": "tecidos" },
+            { "value": 2, "text": "Polo", "id": "Polo", "next": "tecidos" },
+            { "value": 2, "text": "Prada", "id": "Prada", "next": "tecidos" },
+            {
+                "value": 2,
+                "text": "Ralph Lauren",
+                "id": "Ralph Lauren",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Ray-Ban",
+                "id": "Ray-Ban",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Richards",
+                "id": "Richards",
+                "next": "tecidos"
+            },
+            { "value": 2, "text": "Sacada", "id": "Sacada", "next": "tecidos" },
+            {
+                "value": 2,
+                "text": "Sales e Solas",
+                "id": "Sales e Solas",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Shoestock",
+                "id": "Shoestock",
+                "next": "tecidos"
+            },
+            {
+                "value": 2,
+                "text": "Shoulder",
+                "id": "Shoulder",
+                "next": "tecidos"
+            },
+            { "value": 2, "text": "OUTRA", "id": "OUTRA", "next": "tecidos" }
         ],
         [
             {
@@ -50,13 +611,200 @@
                 "id": "",
                 "text": "Selecione a marca",
                 "next": ""
+            },
+            { "value": 3, "text": "Afghan", "id": "Afghan", "next": "tecidos" },
+            {
+                "value": 3,
+                "text": "Água de Coco",
+                "id": "Água de Coco",
+                "next": "tecidos"
+            },
+            { "value": 3, "text": "Amaro", "id": "Amaro", "next": "tecidos" },
+            {
+                "value": 3,
+                "text": "American Eagle",
+                "id": "American Eagle",
+                "next": "tecidos"
             },
             {
                 "value": 3,
-                "text": "marca 1",
-                "id": "marca 4",
+                "text": "Amíssima",
+                "id": "Amíssima",
                 "next": "tecidos"
-            }
+            },
+            {
+                "value": 3,
+                "text": "Animale",
+                "id": "Animale",
+                "next": "tecidos"
+            },
+            { "value": 3, "text": "Arezzo", "id": "Arezzo", "next": "tecidos" },
+            { "value": 3, "text": "Ateen", "id": "Ateen", "next": "tecidos" },
+            {
+                "value": 3,
+                "text": "Banana Republic",
+                "id": "Banana Republic",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Bobstore",
+                "id": "Bobstore",
+                "next": "tecidos"
+            },
+            { "value": 3, "text": "Bris", "id": "Bris", "next": "tecidos" },
+            {
+                "value": 3,
+                "text": "Burberry",
+                "id": "Burberry",
+                "next": "tecidos"
+            },
+            { "value": 3, "text": "ByNV", "id": "ByNV", "next": "tecidos" },
+            { "value": 3, "text": "Cantão", "id": "Cantão", "next": "tecidos" },
+            {
+                "value": 3,
+                "text": "Casula Street",
+                "id": "Casula Street",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Cavendish",
+                "id": "Cavendish",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Checklist",
+                "id": "Checklist",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Cia Maritima",
+                "id": "Cia Maritima",
+                "next": "tecidos"
+            },
+            { "value": 3, "text": "Cori", "id": "Cori", "next": "tecidos" },
+            { "value": 3, "text": "Diesel", "id": "Diesel", "next": "tecidos" },
+            {
+                "value": 3,
+                "text": "Dress To",
+                "id": "Dress To",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Eclectic",
+                "id": "Eclectic",
+                "next": "tecidos"
+            },
+            { "value": 3, "text": "Enjoy", "id": "Enjoy", "next": "tecidos" },
+            { "value": 3, "text": "Farm", "id": "Farm", "next": "tecidos" },
+            { "value": 3, "text": "Folic", "id": "Folic", "next": "tecidos" },
+            { "value": 3, "text": "Folk", "id": "Folk", "next": "tecidos" },
+            { "value": 3, "text": "FYI", "id": "FYI", "next": "tecidos" },
+            { "value": 3, "text": "GAP", "id": "GAP", "next": "tecidos" },
+            { "value": 3, "text": "Garage", "id": "Garage", "next": "tecidos" },
+            { "value": 3, "text": "GAYA", "id": "GAYA", "next": "tecidos" },
+            { "value": 3, "text": "Gucci", "id": "Gucci", "next": "tecidos" },
+            { "value": 3, "text": "Jcrew", "id": "Jcrew", "next": "tecidos" },
+            {
+                "value": 3,
+                "text": "Joie by Ateen",
+                "id": "Joie by Ateen",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Kate Spade",
+                "id": "Kate Spade",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Le Lis Blanc",
+                "id": "Le Lis Blanc",
+                "next": "tecidos"
+            },
+            { "value": 3, "text": "Leeloo", "id": "Leeloo", "next": "tecidos" },
+            { "value": 3, "text": "Levis", "id": "Levis", "next": "tecidos" },
+            { "value": 3, "text": "Litori", "id": "Litori", "next": "tecidos" },
+            {
+                "value": 3,
+                "text": "Lou Boutin",
+                "id": "Lou Boutin",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Louis Vuitton",
+                "id": "Louis Vuitton",
+                "next": "tecidos"
+            },
+            { "value": 3, "text": "Lusine", "id": "Lusine", "next": "tecidos" },
+            {
+                "value": 3,
+                "text": "Maria Filó",
+                "id": "Maria Filó",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Mariazinha",
+                "id": "Mariazinha",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Michael Kors",
+                "id": "Michael Kors",
+                "next": "tecidos"
+            },
+            { "value": 3, "text": "Miss B", "id": "Miss B", "next": "tecidos" },
+            { "value": 3, "text": "Oh Boy", "id": "Oh Boy", "next": "tecidos" },
+            { "value": 3, "text": "Osklen", "id": "Osklen", "next": "tecidos" },
+            { "value": 3, "text": "Peeper", "id": "Peeper", "next": "tecidos" },
+            { "value": 3, "text": "Polo", "id": "Polo", "next": "tecidos" },
+            { "value": 3, "text": "Prada", "id": "Prada", "next": "tecidos" },
+            {
+                "value": 3,
+                "text": "Ralph Lauren",
+                "id": "Ralph Lauren",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Ray-Ban",
+                "id": "Ray-Ban",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Richards",
+                "id": "Richards",
+                "next": "tecidos"
+            },
+            { "value": 3, "text": "Sacada", "id": "Sacada", "next": "tecidos" },
+            {
+                "value": 3,
+                "text": "Sales e Solas",
+                "id": "Sales e Solas",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Shoestock",
+                "id": "Shoestock",
+                "next": "tecidos"
+            },
+            {
+                "value": 3,
+                "text": "Shoulder",
+                "id": "Shoulder",
+                "next": "tecidos"
+            },
+            { "value": 3, "text": "OUTRA", "id": "OUTRA", "next": "tecidos" }
         ],
         [
             {
@@ -64,13 +812,200 @@
                 "id": "",
                 "text": "Selecione a marca",
                 "next": ""
+            },
+            { "value": 4, "text": "Afghan", "id": "Afghan", "next": "tecidos" },
+            {
+                "value": 4,
+                "text": "Água de Coco",
+                "id": "Água de Coco",
+                "next": "tecidos"
+            },
+            { "value": 4, "text": "Amaro", "id": "Amaro", "next": "tecidos" },
+            {
+                "value": 4,
+                "text": "American Eagle",
+                "id": "American Eagle",
+                "next": "tecidos"
             },
             {
                 "value": 4,
-                "text": "marca 1",
-                "id": "marca 5",
+                "text": "Amíssima",
+                "id": "Amíssima",
                 "next": "tecidos"
-            }
+            },
+            {
+                "value": 4,
+                "text": "Animale",
+                "id": "Animale",
+                "next": "tecidos"
+            },
+            { "value": 4, "text": "Arezzo", "id": "Arezzo", "next": "tecidos" },
+            { "value": 4, "text": "Ateen", "id": "Ateen", "next": "tecidos" },
+            {
+                "value": 4,
+                "text": "Banana Republic",
+                "id": "Banana Republic",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Bobstore",
+                "id": "Bobstore",
+                "next": "tecidos"
+            },
+            { "value": 4, "text": "Bris", "id": "Bris", "next": "tecidos" },
+            {
+                "value": 4,
+                "text": "Burberry",
+                "id": "Burberry",
+                "next": "tecidos"
+            },
+            { "value": 4, "text": "ByNV", "id": "ByNV", "next": "tecidos" },
+            { "value": 4, "text": "Cantão", "id": "Cantão", "next": "tecidos" },
+            {
+                "value": 4,
+                "text": "Casula Street",
+                "id": "Casula Street",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Cavendish",
+                "id": "Cavendish",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Checklist",
+                "id": "Checklist",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Cia Maritima",
+                "id": "Cia Maritima",
+                "next": "tecidos"
+            },
+            { "value": 4, "text": "Cori", "id": "Cori", "next": "tecidos" },
+            { "value": 4, "text": "Diesel", "id": "Diesel", "next": "tecidos" },
+            {
+                "value": 4,
+                "text": "Dress To",
+                "id": "Dress To",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Eclectic",
+                "id": "Eclectic",
+                "next": "tecidos"
+            },
+            { "value": 4, "text": "Enjoy", "id": "Enjoy", "next": "tecidos" },
+            { "value": 4, "text": "Farm", "id": "Farm", "next": "tecidos" },
+            { "value": 4, "text": "Folic", "id": "Folic", "next": "tecidos" },
+            { "value": 4, "text": "Folk", "id": "Folk", "next": "tecidos" },
+            { "value": 4, "text": "FYI", "id": "FYI", "next": "tecidos" },
+            { "value": 4, "text": "GAP", "id": "GAP", "next": "tecidos" },
+            { "value": 4, "text": "Garage", "id": "Garage", "next": "tecidos" },
+            { "value": 4, "text": "GAYA", "id": "GAYA", "next": "tecidos" },
+            { "value": 4, "text": "Gucci", "id": "Gucci", "next": "tecidos" },
+            { "value": 4, "text": "Jcrew", "id": "Jcrew", "next": "tecidos" },
+            {
+                "value": 4,
+                "text": "Joie by Ateen",
+                "id": "Joie by Ateen",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Kate Spade",
+                "id": "Kate Spade",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Le Lis Blanc",
+                "id": "Le Lis Blanc",
+                "next": "tecidos"
+            },
+            { "value": 4, "text": "Leeloo", "id": "Leeloo", "next": "tecidos" },
+            { "value": 4, "text": "Levis", "id": "Levis", "next": "tecidos" },
+            { "value": 4, "text": "Litori", "id": "Litori", "next": "tecidos" },
+            {
+                "value": 4,
+                "text": "Lou Boutin",
+                "id": "Lou Boutin",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Louis Vuitton",
+                "id": "Louis Vuitton",
+                "next": "tecidos"
+            },
+            { "value": 4, "text": "Lusine", "id": "Lusine", "next": "tecidos" },
+            {
+                "value": 4,
+                "text": "Maria Filó",
+                "id": "Maria Filó",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Mariazinha",
+                "id": "Mariazinha",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Michael Kors",
+                "id": "Michael Kors",
+                "next": "tecidos"
+            },
+            { "value": 4, "text": "Miss B", "id": "Miss B", "next": "tecidos" },
+            { "value": 4, "text": "Oh Boy", "id": "Oh Boy", "next": "tecidos" },
+            { "value": 4, "text": "Osklen", "id": "Osklen", "next": "tecidos" },
+            { "value": 4, "text": "Peeper", "id": "Peeper", "next": "tecidos" },
+            { "value": 4, "text": "Polo", "id": "Polo", "next": "tecidos" },
+            { "value": 4, "text": "Prada", "id": "Prada", "next": "tecidos" },
+            {
+                "value": 4,
+                "text": "Ralph Lauren",
+                "id": "Ralph Lauren",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Ray-Ban",
+                "id": "Ray-Ban",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Richards",
+                "id": "Richards",
+                "next": "tecidos"
+            },
+            { "value": 4, "text": "Sacada", "id": "Sacada", "next": "tecidos" },
+            {
+                "value": 4,
+                "text": "Sales e Solas",
+                "id": "Sales e Solas",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Shoestock",
+                "id": "Shoestock",
+                "next": "tecidos"
+            },
+            {
+                "value": 4,
+                "text": "Shoulder",
+                "id": "Shoulder",
+                "next": "tecidos"
+            },
+            { "value": 4, "text": "OUTRA", "id": "OUTRA", "next": "tecidos" }
         ],
         [
             {
@@ -78,13 +1013,200 @@
                 "id": "",
                 "text": "Selecione a marca",
                 "next": ""
+            },
+            { "value": 5, "text": "Afghan", "id": "Afghan", "next": "tecidos" },
+            {
+                "value": 5,
+                "text": "Água de Coco",
+                "id": "Água de Coco",
+                "next": "tecidos"
+            },
+            { "value": 5, "text": "Amaro", "id": "Amaro", "next": "tecidos" },
+            {
+                "value": 5,
+                "text": "American Eagle",
+                "id": "American Eagle",
+                "next": "tecidos"
             },
             {
                 "value": 5,
-                "text": "marca 1",
-                "id": "marca 6",
+                "text": "Amíssima",
+                "id": "Amíssima",
                 "next": "tecidos"
-            }
+            },
+            {
+                "value": 5,
+                "text": "Animale",
+                "id": "Animale",
+                "next": "tecidos"
+            },
+            { "value": 5, "text": "Arezzo", "id": "Arezzo", "next": "tecidos" },
+            { "value": 5, "text": "Ateen", "id": "Ateen", "next": "tecidos" },
+            {
+                "value": 5,
+                "text": "Banana Republic",
+                "id": "Banana Republic",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Bobstore",
+                "id": "Bobstore",
+                "next": "tecidos"
+            },
+            { "value": 5, "text": "Bris", "id": "Bris", "next": "tecidos" },
+            {
+                "value": 5,
+                "text": "Burberry",
+                "id": "Burberry",
+                "next": "tecidos"
+            },
+            { "value": 5, "text": "ByNV", "id": "ByNV", "next": "tecidos" },
+            { "value": 5, "text": "Cantão", "id": "Cantão", "next": "tecidos" },
+            {
+                "value": 5,
+                "text": "Casula Street",
+                "id": "Casula Street",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Cavendish",
+                "id": "Cavendish",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Checklist",
+                "id": "Checklist",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Cia Maritima",
+                "id": "Cia Maritima",
+                "next": "tecidos"
+            },
+            { "value": 5, "text": "Cori", "id": "Cori", "next": "tecidos" },
+            { "value": 5, "text": "Diesel", "id": "Diesel", "next": "tecidos" },
+            {
+                "value": 5,
+                "text": "Dress To",
+                "id": "Dress To",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Eclectic",
+                "id": "Eclectic",
+                "next": "tecidos"
+            },
+            { "value": 5, "text": "Enjoy", "id": "Enjoy", "next": "tecidos" },
+            { "value": 5, "text": "Farm", "id": "Farm", "next": "tecidos" },
+            { "value": 5, "text": "Folic", "id": "Folic", "next": "tecidos" },
+            { "value": 5, "text": "Folk", "id": "Folk", "next": "tecidos" },
+            { "value": 5, "text": "FYI", "id": "FYI", "next": "tecidos" },
+            { "value": 5, "text": "GAP", "id": "GAP", "next": "tecidos" },
+            { "value": 5, "text": "Garage", "id": "Garage", "next": "tecidos" },
+            { "value": 5, "text": "GAYA", "id": "GAYA", "next": "tecidos" },
+            { "value": 5, "text": "Gucci", "id": "Gucci", "next": "tecidos" },
+            { "value": 5, "text": "Jcrew", "id": "Jcrew", "next": "tecidos" },
+            {
+                "value": 5,
+                "text": "Joie by Ateen",
+                "id": "Joie by Ateen",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Kate Spade",
+                "id": "Kate Spade",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Le Lis Blanc",
+                "id": "Le Lis Blanc",
+                "next": "tecidos"
+            },
+            { "value": 5, "text": "Leeloo", "id": "Leeloo", "next": "tecidos" },
+            { "value": 5, "text": "Levis", "id": "Levis", "next": "tecidos" },
+            { "value": 5, "text": "Litori", "id": "Litori", "next": "tecidos" },
+            {
+                "value": 5,
+                "text": "Lou Boutin",
+                "id": "Lou Boutin",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Louis Vuitton",
+                "id": "Louis Vuitton",
+                "next": "tecidos"
+            },
+            { "value": 5, "text": "Lusine", "id": "Lusine", "next": "tecidos" },
+            {
+                "value": 5,
+                "text": "Maria Filó",
+                "id": "Maria Filó",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Mariazinha",
+                "id": "Mariazinha",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Michael Kors",
+                "id": "Michael Kors",
+                "next": "tecidos"
+            },
+            { "value": 5, "text": "Miss B", "id": "Miss B", "next": "tecidos" },
+            { "value": 5, "text": "Oh Boy", "id": "Oh Boy", "next": "tecidos" },
+            { "value": 5, "text": "Osklen", "id": "Osklen", "next": "tecidos" },
+            { "value": 5, "text": "Peeper", "id": "Peeper", "next": "tecidos" },
+            { "value": 5, "text": "Polo", "id": "Polo", "next": "tecidos" },
+            { "value": 5, "text": "Prada", "id": "Prada", "next": "tecidos" },
+            {
+                "value": 5,
+                "text": "Ralph Lauren",
+                "id": "Ralph Lauren",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Ray-Ban",
+                "id": "Ray-Ban",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Richards",
+                "id": "Richards",
+                "next": "tecidos"
+            },
+            { "value": 5, "text": "Sacada", "id": "Sacada", "next": "tecidos" },
+            {
+                "value": 5,
+                "text": "Sales e Solas",
+                "id": "Sales e Solas",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Shoestock",
+                "id": "Shoestock",
+                "next": "tecidos"
+            },
+            {
+                "value": 5,
+                "text": "Shoulder",
+                "id": "Shoulder",
+                "next": "tecidos"
+            },
+            { "value": 5, "text": "OUTRA", "id": "OUTRA", "next": "tecidos" }
         ],
         [
             {
@@ -92,13 +1214,200 @@
                 "id": "",
                 "text": "Selecione a marca",
                 "next": ""
+            },
+            { "value": 6, "text": "Afghan", "id": "Afghan", "next": "tecidos" },
+            {
+                "value": 6,
+                "text": "Água de Coco",
+                "id": "Água de Coco",
+                "next": "tecidos"
+            },
+            { "value": 6, "text": "Amaro", "id": "Amaro", "next": "tecidos" },
+            {
+                "value": 6,
+                "text": "American Eagle",
+                "id": "American Eagle",
+                "next": "tecidos"
             },
             {
                 "value": 6,
-                "text": "marca 1",
-                "id": "marca 7",
+                "text": "Amíssima",
+                "id": "Amíssima",
                 "next": "tecidos"
-            }
+            },
+            {
+                "value": 6,
+                "text": "Animale",
+                "id": "Animale",
+                "next": "tecidos"
+            },
+            { "value": 6, "text": "Arezzo", "id": "Arezzo", "next": "tecidos" },
+            { "value": 6, "text": "Ateen", "id": "Ateen", "next": "tecidos" },
+            {
+                "value": 6,
+                "text": "Banana Republic",
+                "id": "Banana Republic",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Bobstore",
+                "id": "Bobstore",
+                "next": "tecidos"
+            },
+            { "value": 6, "text": "Bris", "id": "Bris", "next": "tecidos" },
+            {
+                "value": 6,
+                "text": "Burberry",
+                "id": "Burberry",
+                "next": "tecidos"
+            },
+            { "value": 6, "text": "ByNV", "id": "ByNV", "next": "tecidos" },
+            { "value": 6, "text": "Cantão", "id": "Cantão", "next": "tecidos" },
+            {
+                "value": 6,
+                "text": "Casula Street",
+                "id": "Casula Street",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Cavendish",
+                "id": "Cavendish",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Checklist",
+                "id": "Checklist",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Cia Maritima",
+                "id": "Cia Maritima",
+                "next": "tecidos"
+            },
+            { "value": 6, "text": "Cori", "id": "Cori", "next": "tecidos" },
+            { "value": 6, "text": "Diesel", "id": "Diesel", "next": "tecidos" },
+            {
+                "value": 6,
+                "text": "Dress To",
+                "id": "Dress To",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Eclectic",
+                "id": "Eclectic",
+                "next": "tecidos"
+            },
+            { "value": 6, "text": "Enjoy", "id": "Enjoy", "next": "tecidos" },
+            { "value": 6, "text": "Farm", "id": "Farm", "next": "tecidos" },
+            { "value": 6, "text": "Folic", "id": "Folic", "next": "tecidos" },
+            { "value": 6, "text": "Folk", "id": "Folk", "next": "tecidos" },
+            { "value": 6, "text": "FYI", "id": "FYI", "next": "tecidos" },
+            { "value": 6, "text": "GAP", "id": "GAP", "next": "tecidos" },
+            { "value": 6, "text": "Garage", "id": "Garage", "next": "tecidos" },
+            { "value": 6, "text": "GAYA", "id": "GAYA", "next": "tecidos" },
+            { "value": 6, "text": "Gucci", "id": "Gucci", "next": "tecidos" },
+            { "value": 6, "text": "Jcrew", "id": "Jcrew", "next": "tecidos" },
+            {
+                "value": 6,
+                "text": "Joie by Ateen",
+                "id": "Joie by Ateen",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Kate Spade",
+                "id": "Kate Spade",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Le Lis Blanc",
+                "id": "Le Lis Blanc",
+                "next": "tecidos"
+            },
+            { "value": 6, "text": "Leeloo", "id": "Leeloo", "next": "tecidos" },
+            { "value": 6, "text": "Levis", "id": "Levis", "next": "tecidos" },
+            { "value": 6, "text": "Litori", "id": "Litori", "next": "tecidos" },
+            {
+                "value": 6,
+                "text": "Lou Boutin",
+                "id": "Lou Boutin",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Louis Vuitton",
+                "id": "Louis Vuitton",
+                "next": "tecidos"
+            },
+            { "value": 6, "text": "Lusine", "id": "Lusine", "next": "tecidos" },
+            {
+                "value": 6,
+                "text": "Maria Filó",
+                "id": "Maria Filó",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Mariazinha",
+                "id": "Mariazinha",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Michael Kors",
+                "id": "Michael Kors",
+                "next": "tecidos"
+            },
+            { "value": 6, "text": "Miss B", "id": "Miss B", "next": "tecidos" },
+            { "value": 6, "text": "Oh Boy", "id": "Oh Boy", "next": "tecidos" },
+            { "value": 6, "text": "Osklen", "id": "Osklen", "next": "tecidos" },
+            { "value": 6, "text": "Peeper", "id": "Peeper", "next": "tecidos" },
+            { "value": 6, "text": "Polo", "id": "Polo", "next": "tecidos" },
+            { "value": 6, "text": "Prada", "id": "Prada", "next": "tecidos" },
+            {
+                "value": 6,
+                "text": "Ralph Lauren",
+                "id": "Ralph Lauren",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Ray-Ban",
+                "id": "Ray-Ban",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Richards",
+                "id": "Richards",
+                "next": "tecidos"
+            },
+            { "value": 6, "text": "Sacada", "id": "Sacada", "next": "tecidos" },
+            {
+                "value": 6,
+                "text": "Sales e Solas",
+                "id": "Sales e Solas",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Shoestock",
+                "id": "Shoestock",
+                "next": "tecidos"
+            },
+            {
+                "value": 6,
+                "text": "Shoulder",
+                "id": "Shoulder",
+                "next": "tecidos"
+            },
+            { "value": 6, "text": "OUTRA", "id": "OUTRA", "next": "tecidos" }
         ],
         [
             {
@@ -107,7 +1416,199 @@
                 "text": "Selecione a marca",
                 "next": ""
             },
-            { "value": 7, "text": "marca 1", "id": "marca 8", "next": "final" }
+            { "value": 7, "text": "Afghan", "id": "Afghan", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Água de Coco",
+                "id": "Água de Coco",
+                "next": "textos"
+            },
+            { "value": 7, "text": "Amaro", "id": "Amaro", "next": "textos" },
+            {
+                "value": 7,
+                "text": "American Eagle",
+                "id": "American Eagle",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Amíssima",
+                "id": "Amíssima",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Animale",
+                "id": "Animale",
+                "next": "textos"
+            },
+            { "value": 7, "text": "Arezzo", "id": "Arezzo", "next": "textos" },
+            { "value": 7, "text": "Ateen", "id": "Ateen", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Banana Republic",
+                "id": "Banana Republic",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Bobstore",
+                "id": "Bobstore",
+                "next": "textos"
+            },
+            { "value": 7, "text": "Bris", "id": "Bris", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Burberry",
+                "id": "Burberry",
+                "next": "textos"
+            },
+            { "value": 7, "text": "ByNV", "id": "ByNV", "next": "textos" },
+            { "value": 7, "text": "Cantão", "id": "Cantão", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Casula Street",
+                "id": "Casula Street",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Cavendish",
+                "id": "Cavendish",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Checklist",
+                "id": "Checklist",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Cia Maritima",
+                "id": "Cia Maritima",
+                "next": "textos"
+            },
+            { "value": 7, "text": "Cori", "id": "Cori", "next": "textos" },
+            { "value": 7, "text": "Diesel", "id": "Diesel", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Dress To",
+                "id": "Dress To",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Eclectic",
+                "id": "Eclectic",
+                "next": "textos"
+            },
+            { "value": 7, "text": "Enjoy", "id": "Enjoy", "next": "textos" },
+            { "value": 7, "text": "Farm", "id": "Farm", "next": "textos" },
+            { "value": 7, "text": "Folic", "id": "Folic", "next": "textos" },
+            { "value": 7, "text": "Folk", "id": "Folk", "next": "textos" },
+            { "value": 7, "text": "FYI", "id": "FYI", "next": "textos" },
+            { "value": 7, "text": "GAP", "id": "GAP", "next": "textos" },
+            { "value": 7, "text": "Garage", "id": "Garage", "next": "textos" },
+            { "value": 7, "text": "GAYA", "id": "GAYA", "next": "textos" },
+            { "value": 7, "text": "Gucci", "id": "Gucci", "next": "textos" },
+            { "value": 7, "text": "Jcrew", "id": "Jcrew", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Joie by Ateen",
+                "id": "Joie by Ateen",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Kate Spade",
+                "id": "Kate Spade",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Le Lis Blanc",
+                "id": "Le Lis Blanc",
+                "next": "textos"
+            },
+            { "value": 7, "text": "Leeloo", "id": "Leeloo", "next": "textos" },
+            { "value": 7, "text": "Levis", "id": "Levis", "next": "textos" },
+            { "value": 7, "text": "Litori", "id": "Litori", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Lou Boutin",
+                "id": "Lou Boutin",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Louis Vuitton",
+                "id": "Louis Vuitton",
+                "next": "textos"
+            },
+            { "value": 7, "text": "Lusine", "id": "Lusine", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Maria Filó",
+                "id": "Maria Filó",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Mariazinha",
+                "id": "Mariazinha",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Michael Kors",
+                "id": "Michael Kors",
+                "next": "textos"
+            },
+            { "value": 7, "text": "Miss B", "id": "Miss B", "next": "textos" },
+            { "value": 7, "text": "Oh Boy", "id": "Oh Boy", "next": "textos" },
+            { "value": 7, "text": "Osklen", "id": "Osklen", "next": "textos" },
+            { "value": 7, "text": "Peeper", "id": "Peeper", "next": "textos" },
+            { "value": 7, "text": "Polo", "id": "Polo", "next": "textos" },
+            { "value": 7, "text": "Prada", "id": "Prada", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Ralph Lauren",
+                "id": "Ralph Lauren",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Ray-Ban",
+                "id": "Ray-Ban",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Richards",
+                "id": "Richards",
+                "next": "textos"
+            },
+            { "value": 7, "text": "Sacada", "id": "Sacada", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Sales e Solas",
+                "id": "Sales e Solas",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Shoestock",
+                "id": "Shoestock",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Shoulder",
+                "id": "Shoulder",
+                "next": "textos"
+            },
+            { "value": 7, "text": "OUTRA", "id": "OUTRA", "next": "textos" }
         ],
         [
             {
@@ -116,7 +1617,199 @@
                 "text": "Selecione a marca",
                 "next": ""
             },
-            { "value": 8, "text": "marca 1", "id": "marca 1", "next": "final" }
+            { "value": 8, "text": "Afghan", "id": "Afghan", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Água de Coco",
+                "id": "Água de Coco",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Amaro", "id": "Amaro", "next": "textos" },
+            {
+                "value": 8,
+                "text": "American Eagle",
+                "id": "American Eagle",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Amíssima",
+                "id": "Amíssima",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Animale",
+                "id": "Animale",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Arezzo", "id": "Arezzo", "next": "textos" },
+            { "value": 8, "text": "Ateen", "id": "Ateen", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Banana Republic",
+                "id": "Banana Republic",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Bobstore",
+                "id": "Bobstore",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Bris", "id": "Bris", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Burberry",
+                "id": "Burberry",
+                "next": "textos"
+            },
+            { "value": 8, "text": "ByNV", "id": "ByNV", "next": "textos" },
+            { "value": 8, "text": "Cantão", "id": "Cantão", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Casula Street",
+                "id": "Casula Street",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Cavendish",
+                "id": "Cavendish",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Checklist",
+                "id": "Checklist",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Cia Maritima",
+                "id": "Cia Maritima",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Cori", "id": "Cori", "next": "textos" },
+            { "value": 8, "text": "Diesel", "id": "Diesel", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Dress To",
+                "id": "Dress To",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Eclectic",
+                "id": "Eclectic",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Enjoy", "id": "Enjoy", "next": "textos" },
+            { "value": 8, "text": "Farm", "id": "Farm", "next": "textos" },
+            { "value": 8, "text": "Folic", "id": "Folic", "next": "textos" },
+            { "value": 8, "text": "Folk", "id": "Folk", "next": "textos" },
+            { "value": 8, "text": "FYI", "id": "FYI", "next": "textos" },
+            { "value": 8, "text": "GAP", "id": "GAP", "next": "textos" },
+            { "value": 8, "text": "Garage", "id": "Garage", "next": "textos" },
+            { "value": 8, "text": "GAYA", "id": "GAYA", "next": "textos" },
+            { "value": 8, "text": "Gucci", "id": "Gucci", "next": "textos" },
+            { "value": 8, "text": "Jcrew", "id": "Jcrew", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Joie by Ateen",
+                "id": "Joie by Ateen",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Kate Spade",
+                "id": "Kate Spade",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Le Lis Blanc",
+                "id": "Le Lis Blanc",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Leeloo", "id": "Leeloo", "next": "textos" },
+            { "value": 8, "text": "Levis", "id": "Levis", "next": "textos" },
+            { "value": 8, "text": "Litori", "id": "Litori", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Lou Boutin",
+                "id": "Lou Boutin",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Louis Vuitton",
+                "id": "Louis Vuitton",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Lusine", "id": "Lusine", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Maria Filó",
+                "id": "Maria Filó",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Mariazinha",
+                "id": "Mariazinha",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Michael Kors",
+                "id": "Michael Kors",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Miss B", "id": "Miss B", "next": "textos" },
+            { "value": 8, "text": "Oh Boy", "id": "Oh Boy", "next": "textos" },
+            { "value": 8, "text": "Osklen", "id": "Osklen", "next": "textos" },
+            { "value": 8, "text": "Peeper", "id": "Peeper", "next": "textos" },
+            { "value": 8, "text": "Polo", "id": "Polo", "next": "textos" },
+            { "value": 8, "text": "Prada", "id": "Prada", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Ralph Lauren",
+                "id": "Ralph Lauren",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Ray-Ban",
+                "id": "Ray-Ban",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Richards",
+                "id": "Richards",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Sacada", "id": "Sacada", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Sales e Solas",
+                "id": "Sales e Solas",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Shoestock",
+                "id": "Shoestock",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Shoulder",
+                "id": "Shoulder",
+                "next": "textos"
+            },
+            { "value": 8, "text": "OUTRA", "id": "OUTRA", "next": "textos" }
         ]
     ]
 }

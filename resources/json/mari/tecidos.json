@@ -11,10 +11,40 @@
             },
             {
                 "value": 0,
-                "text": "Tecido 1",
-                "id": "Tecido 1",
+                "text": "Alfaiataria",
+                "id": "Alfaiataria",
                 "next": "textos"
-            }
+            },
+            {
+                "value": 0,
+                "text": "Bordado/Brilho",
+                "id": "Bordado/Brilho",
+                "next": "textos"
+            },
+            { "value": 0, "text": "Couro", "id": "Couro", "next": "textos" },
+            { "value": 0, "text": "Crepe", "id": "Crepe", "next": "textos" },
+            { "value": 0, "text": "Jeans", "id": "Jeans", "next": "textos" },
+            { "value": 0, "text": "Laise", "id": "Laise", "next": "textos" },
+            { "value": 0, "text": "Linho", "id": "Linho", "next": "textos" },
+            { "value": 0, "text": "Lurex", "id": "Lurex", "next": "textos" },
+            { "value": 0, "text": "Lycra", "id": "Lycra", "next": "textos" },
+            {
+                "value": 0,
+                "text": "Poliester",
+                "id": "Poliester",
+                "next": "textos"
+            },
+            { "value": 0, "text": "Renda", "id": "Renda", "next": "textos" },
+            { "value": 0, "text": "Seda", "id": "Seda", "next": "textos" },
+            { "value": 0, "text": "Tricot", "id": "Tricot", "next": "textos" },
+            { "value": 0, "text": "Tule", "id": "Tule", "next": "textos" },
+            {
+                "value": 0,
+                "text": "Viscose",
+                "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 0, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
             {
@@ -25,10 +55,40 @@
             },
             {
                 "value": 1,
-                "text": "Tecido 1",
-                "id": "Tecido 2",
+                "text": "Alfaiataria",
+                "id": "Alfaiataria",
                 "next": "textos"
-            }
+            },
+            {
+                "value": 1,
+                "text": "Bordado/Brilho",
+                "id": "Bordado/Brilho",
+                "next": "textos"
+            },
+            { "value": 1, "text": "Couro", "id": "Couro", "next": "textos" },
+            { "value": 1, "text": "Crepe", "id": "Crepe", "next": "textos" },
+            { "value": 1, "text": "Jeans", "id": "Jeans", "next": "textos" },
+            { "value": 1, "text": "Laise", "id": "Laise", "next": "textos" },
+            { "value": 1, "text": "Linho", "id": "Linho", "next": "textos" },
+            { "value": 1, "text": "Lurex", "id": "Lurex", "next": "textos" },
+            { "value": 1, "text": "Lycra", "id": "Lycra", "next": "textos" },
+            {
+                "value": 1,
+                "text": "Poliester",
+                "id": "Poliester",
+                "next": "textos"
+            },
+            { "value": 1, "text": "Renda", "id": "Renda", "next": "textos" },
+            { "value": 1, "text": "Seda", "id": "Seda", "next": "textos" },
+            { "value": 1, "text": "Tricot", "id": "Tricot", "next": "textos" },
+            { "value": 1, "text": "Tule", "id": "Tule", "next": "textos" },
+            {
+                "value": 1,
+                "text": "Viscose",
+                "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 1, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
             {
@@ -39,10 +99,40 @@
             },
             {
                 "value": 2,
-                "text": "Tecido 1",
-                "id": "Tecido 3",
+                "text": "Alfaiataria",
+                "id": "Alfaiataria",
                 "next": "textos"
-            }
+            },
+            {
+                "value": 2,
+                "text": "Bordado/Brilho",
+                "id": "Bordado/Brilho",
+                "next": "textos"
+            },
+            { "value": 2, "text": "Couro", "id": "Couro", "next": "textos" },
+            { "value": 2, "text": "Crepe", "id": "Crepe", "next": "textos" },
+            { "value": 2, "text": "Jeans", "id": "Jeans", "next": "textos" },
+            { "value": 2, "text": "Laise", "id": "Laise", "next": "textos" },
+            { "value": 2, "text": "Linho", "id": "Linho", "next": "textos" },
+            { "value": 2, "text": "Lurex", "id": "Lurex", "next": "textos" },
+            { "value": 2, "text": "Lycra", "id": "Lycra", "next": "textos" },
+            {
+                "value": 2,
+                "text": "Poliester",
+                "id": "Poliester",
+                "next": "textos"
+            },
+            { "value": 2, "text": "Renda", "id": "Renda", "next": "textos" },
+            { "value": 2, "text": "Seda", "id": "Seda", "next": "textos" },
+            { "value": 2, "text": "Tricot", "id": "Tricot", "next": "textos" },
+            { "value": 2, "text": "Tule", "id": "Tule", "next": "textos" },
+            {
+                "value": 2,
+                "text": "Viscose",
+                "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 2, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
             {
@@ -53,10 +143,40 @@
             },
             {
                 "value": 3,
-                "text": "Tecido 1",
-                "id": "Tecido 4",
+                "text": "Alfaiataria",
+                "id": "Alfaiataria",
                 "next": "textos"
-            }
+            },
+            {
+                "value": 3,
+                "text": "Bordado/Brilho",
+                "id": "Bordado/Brilho",
+                "next": "textos"
+            },
+            { "value": 3, "text": "Couro", "id": "Couro", "next": "textos" },
+            { "value": 3, "text": "Crepe", "id": "Crepe", "next": "textos" },
+            { "value": 3, "text": "Jeans", "id": "Jeans", "next": "textos" },
+            { "value": 3, "text": "Laise", "id": "Laise", "next": "textos" },
+            { "value": 3, "text": "Linho", "id": "Linho", "next": "textos" },
+            { "value": 3, "text": "Lurex", "id": "Lurex", "next": "textos" },
+            { "value": 3, "text": "Lycra", "id": "Lycra", "next": "textos" },
+            {
+                "value": 3,
+                "text": "Poliester",
+                "id": "Poliester",
+                "next": "textos"
+            },
+            { "value": 3, "text": "Renda", "id": "Renda", "next": "textos" },
+            { "value": 3, "text": "Seda", "id": "Seda", "next": "textos" },
+            { "value": 3, "text": "Tricot", "id": "Tricot", "next": "textos" },
+            { "value": 3, "text": "Tule", "id": "Tule", "next": "textos" },
+            {
+                "value": 3,
+                "text": "Viscose",
+                "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 3, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
             {
@@ -67,10 +187,40 @@
             },
             {
                 "value": 4,
-                "text": "Tecido 1",
-                "id": "Tecido 5",
+                "text": "Alfaiataria",
+                "id": "Alfaiataria",
                 "next": "textos"
-            }
+            },
+            {
+                "value": 4,
+                "text": "Bordado/Brilho",
+                "id": "Bordado/Brilho",
+                "next": "textos"
+            },
+            { "value": 4, "text": "Couro", "id": "Couro", "next": "textos" },
+            { "value": 4, "text": "Crepe", "id": "Crepe", "next": "textos" },
+            { "value": 4, "text": "Jeans", "id": "Jeans", "next": "textos" },
+            { "value": 4, "text": "Laise", "id": "Laise", "next": "textos" },
+            { "value": 4, "text": "Linho", "id": "Linho", "next": "textos" },
+            { "value": 4, "text": "Lurex", "id": "Lurex", "next": "textos" },
+            { "value": 4, "text": "Lycra", "id": "Lycra", "next": "textos" },
+            {
+                "value": 4,
+                "text": "Poliester",
+                "id": "Poliester",
+                "next": "textos"
+            },
+            { "value": 4, "text": "Renda", "id": "Renda", "next": "textos" },
+            { "value": 4, "text": "Seda", "id": "Seda", "next": "textos" },
+            { "value": 4, "text": "Tricot", "id": "Tricot", "next": "textos" },
+            { "value": 4, "text": "Tule", "id": "Tule", "next": "textos" },
+            {
+                "value": 4,
+                "text": "Viscose",
+                "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 4, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
             {
@@ -81,10 +231,40 @@
             },
             {
                 "value": 5,
-                "text": "Tecido 1",
-                "id": "Tecido 6",
+                "text": "Alfaiataria",
+                "id": "Alfaiataria",
                 "next": "textos"
-            }
+            },
+            {
+                "value": 5,
+                "text": "Bordado/Brilho",
+                "id": "Bordado/Brilho",
+                "next": "textos"
+            },
+            { "value": 5, "text": "Couro", "id": "Couro", "next": "textos" },
+            { "value": 5, "text": "Crepe", "id": "Crepe", "next": "textos" },
+            { "value": 5, "text": "Jeans", "id": "Jeans", "next": "textos" },
+            { "value": 5, "text": "Laise", "id": "Laise", "next": "textos" },
+            { "value": 5, "text": "Linho", "id": "Linho", "next": "textos" },
+            { "value": 5, "text": "Lurex", "id": "Lurex", "next": "textos" },
+            { "value": 5, "text": "Lycra", "id": "Lycra", "next": "textos" },
+            {
+                "value": 5,
+                "text": "Poliester",
+                "id": "Poliester",
+                "next": "textos"
+            },
+            { "value": 5, "text": "Renda", "id": "Renda", "next": "textos" },
+            { "value": 5, "text": "Seda", "id": "Seda", "next": "textos" },
+            { "value": 5, "text": "Tricot", "id": "Tricot", "next": "textos" },
+            { "value": 5, "text": "Tule", "id": "Tule", "next": "textos" },
+            {
+                "value": 5,
+                "text": "Viscose",
+                "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 5, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
             {
@@ -95,10 +275,40 @@
             },
             {
                 "value": 6,
-                "text": "Tecido 1",
-                "id": "Tecido 7",
+                "text": "Alfaiataria",
+                "id": "Alfaiataria",
                 "next": "textos"
-            }
+            },
+            {
+                "value": 6,
+                "text": "Bordado/Brilho",
+                "id": "Bordado/Brilho",
+                "next": "textos"
+            },
+            { "value": 6, "text": "Couro", "id": "Couro", "next": "textos" },
+            { "value": 6, "text": "Crepe", "id": "Crepe", "next": "textos" },
+            { "value": 6, "text": "Jeans", "id": "Jeans", "next": "textos" },
+            { "value": 6, "text": "Laise", "id": "Laise", "next": "textos" },
+            { "value": 6, "text": "Linho", "id": "Linho", "next": "textos" },
+            { "value": 6, "text": "Lurex", "id": "Lurex", "next": "textos" },
+            { "value": 6, "text": "Lycra", "id": "Lycra", "next": "textos" },
+            {
+                "value": 6,
+                "text": "Poliester",
+                "id": "Poliester",
+                "next": "textos"
+            },
+            { "value": 6, "text": "Renda", "id": "Renda", "next": "textos" },
+            { "value": 6, "text": "Seda", "id": "Seda", "next": "textos" },
+            { "value": 6, "text": "Tricot", "id": "Tricot", "next": "textos" },
+            { "value": 6, "text": "Tule", "id": "Tule", "next": "textos" },
+            {
+                "value": 6,
+                "text": "Viscose",
+                "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 6, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
             {
@@ -109,10 +319,40 @@
             },
             {
                 "value": 7,
-                "text": "Tecido 1",
-                "id": "Tecido 8",
-                "next": "final"
-            }
+                "text": "Alfaiataria",
+                "id": "Alfaiataria",
+                "next": "textos"
+            },
+            {
+                "value": 7,
+                "text": "Bordado/Brilho",
+                "id": "Bordado/Brilho",
+                "next": "textos"
+            },
+            { "value": 7, "text": "Couro", "id": "Couro", "next": "textos" },
+            { "value": 7, "text": "Crepe", "id": "Crepe", "next": "textos" },
+            { "value": 7, "text": "Jeans", "id": "Jeans", "next": "textos" },
+            { "value": 7, "text": "Laise", "id": "Laise", "next": "textos" },
+            { "value": 7, "text": "Linho", "id": "Linho", "next": "textos" },
+            { "value": 7, "text": "Lurex", "id": "Lurex", "next": "textos" },
+            { "value": 7, "text": "Lycra", "id": "Lycra", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Poliester",
+                "id": "Poliester",
+                "next": "textos"
+            },
+            { "value": 7, "text": "Renda", "id": "Renda", "next": "textos" },
+            { "value": 7, "text": "Seda", "id": "Seda", "next": "textos" },
+            { "value": 7, "text": "Tricot", "id": "Tricot", "next": "textos" },
+            { "value": 7, "text": "Tule", "id": "Tule", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Viscose",
+                "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 7, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
             {
@@ -123,10 +363,40 @@
             },
             {
                 "value": 8,
-                "text": "Tecido 1",
-                "id": "Tecido 1",
-                "next": "final"
-            }
+                "text": "Alfaiataria",
+                "id": "Alfaiataria",
+                "next": "textos"
+            },
+            {
+                "value": 8,
+                "text": "Bordado/Brilho",
+                "id": "Bordado/Brilho",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Couro", "id": "Couro", "next": "textos" },
+            { "value": 8, "text": "Crepe", "id": "Crepe", "next": "textos" },
+            { "value": 8, "text": "Jeans", "id": "Jeans", "next": "textos" },
+            { "value": 8, "text": "Laise", "id": "Laise", "next": "textos" },
+            { "value": 8, "text": "Linho", "id": "Linho", "next": "textos" },
+            { "value": 8, "text": "Lurex", "id": "Lurex", "next": "textos" },
+            { "value": 8, "text": "Lycra", "id": "Lycra", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Poliester",
+                "id": "Poliester",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Renda", "id": "Renda", "next": "textos" },
+            { "value": 8, "text": "Seda", "id": "Seda", "next": "textos" },
+            { "value": 8, "text": "Tricot", "id": "Tricot", "next": "textos" },
+            { "value": 8, "text": "Tule", "id": "Tule", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Viscose",
+                "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 8, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ]
     ]
 }
