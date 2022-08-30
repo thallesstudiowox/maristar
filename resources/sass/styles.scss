@@ -197,3 +197,50 @@ li {
 .btn {
     padding: 10px !important;
 }
+html[data-placement="vertical"]
+    .nav-container
+    .nav-content
+    .menu-container
+    .menu
+    li
+    a
+    .icon,
+html[data-placement="horizontal"]
+    .nav-container.mobile-side-ready
+    .nav-content
+    .menu-container
+    .menu
+    li
+    a
+    .icon,
+html[data-placement="vertical"]
+    .nav-container.mobile-side-ready
+    .nav-content
+    .menu-container
+    .menu
+    li
+    a
+    .icon,
+html[data-placement="vertical"]
+    .nav-container
+    .nav-content
+    .menu-container
+    .menu
+    li
+    a,
+html[data-placement="horizontal"]
+    .nav-container.mobile-side-ready
+    .nav-content
+    .menu-container
+    .menu
+    li
+    a,
+html[data-placement="vertical"]
+    .nav-container.mobile-side-ready
+    .nav-content
+    .menu-container
+    .menu
+    li
+    a {
+    color: #212529;
+}
