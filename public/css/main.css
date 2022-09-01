@@ -71,3 +71,7 @@ div#logo img {
     width: auto;
     max-height: 300px;
 }
+
+svg {
+    width: 20px !important;
+}

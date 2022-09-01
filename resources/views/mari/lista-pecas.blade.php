@@ -59,6 +59,7 @@ $description= 'Peças da Maristar.'; $breadcrumbs =
                                         <td>
                                             @sortablelink('estilos', 'Estilos')
                                         </td>
+                                        <td>@sortablelink('created_at', 'Criado em')</td>
                                         <td>Ações</td>
                                     </tr>
                                 </thead>
@@ -69,7 +70,7 @@ $description= 'Peças da Maristar.'; $breadcrumbs =
                                             <a
                                                 id="peca_{{$peca->id}}"
                                                 href="{{route('pecas.show', $peca->id)}}"
-                                                >{{json_decode($peca->image)->name}}
+                                                >{{$peca->descritivo}}
                                             </a>
                                         </td>
 

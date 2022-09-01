@@ -16133,3 +16133,11 @@ html[data-placement=vertical] .nav-container.mobile-side-ready .nav-content .men
 span.label {
   color: #212529 !important;
 }
+
+svg {
+  width: 20px !important;
+}
+
+nav[role=navigation] .hidden {
+  margin: 20px 0;
+}
