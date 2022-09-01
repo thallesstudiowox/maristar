@@ -52,6 +52,7 @@ $description= 'Peças da Maristar.'; $breadcrumbs =
                                 <thead>
                                     <tr>
                                         <td>@sortablelink('name', 'Nome')</td>
+                                        {{--
                                         <td>
                                             @sortablelink('categorias',
                                             'Categorias')
@@ -59,6 +60,7 @@ $description= 'Peças da Maristar.'; $breadcrumbs =
                                         <td>
                                             @sortablelink('estilos', 'Estilos')
                                         </td>
+                                        --}}
                                         <td>@sortablelink('created_at', 'Criado em')</td>
                                         <td>Ações</td>
                                     </tr>
@@ -73,9 +75,10 @@ $description= 'Peças da Maristar.'; $breadcrumbs =
                                                 >{{$peca->descritivo}}
                                             </a>
                                         </td>
-
+{{--
                                         <td>{{$peca->categorias}}</td>
                                         <td>{{$peca->estilos}}</td>
+                                        --}}
                                         <td>{{$peca->created_at}}</td>
 
                                         <td>
