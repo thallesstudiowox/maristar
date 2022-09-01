@@ -16139,5 +16139,5 @@ svg {
 }
 
 nav[role=navigation] .hidden {
-  margin: 20px 0;
+  margin: 20px 0 !important;
 }

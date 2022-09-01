@@ -244,6 +244,12 @@
                 "id": "Pulseira",
                 "text": "Pulseira",
                 "next": "cor"
+            },
+            {
+                "value": 7,
+                "id": "Bolsa",
+                "text": "Bolsa",
+                "next": "cor"
             }
         ],
         [
