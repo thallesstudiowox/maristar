@@ -250,6 +250,12 @@
                 "id": "Bolsa",
                 "text": "Bolsa",
                 "next": "cor"
+            },
+            {
+                "value": 7,
+                "id": "Chapéu",
+                "text": "Chapéu",
+                "next": "cor"
             }
         ],
         [
