@@ -26,6 +26,12 @@
             { "value": 0, "id": "Marrom", "text": "Marrom", "next": "marcas" },
             {
                 "value": 0,
+                "id": "Laranja",
+                "text": "Laranja",
+                "next": "marcas"
+            },
+            {
+                "value": 0,
                 "id": "Turquesa",
                 "text": "Turquesa",
                 "next": "marcas"
@@ -104,6 +110,12 @@
             { "value": 1, "id": "Marrom", "text": "Marrom", "next": "marcas" },
             {
                 "value": 1,
+                "id": "Laranja",
+                "text": "Laranja",
+                "next": "marcas"
+            },
+            {
+                "value": 1,
                 "id": "Turquesa",
                 "text": "Turquesa",
                 "next": "marcas"
@@ -180,6 +192,12 @@
             { "value": 2, "id": "Verde", "text": "Verde", "next": "marcas" },
             { "value": 2, "id": "Cinza", "text": "Cinza", "next": "marcas" },
             { "value": 2, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 2,
+                "id": "Laranja",
+                "text": "Laranja",
+                "next": "marcas"
+            },
             {
                 "value": 2,
                 "id": "Turquesa",
@@ -265,6 +283,12 @@
             { "value": 3, "id": "Marrom", "text": "Marrom", "next": "marcas" },
             {
                 "value": 3,
+                "id": "Laranja",
+                "text": "Laranja",
+                "next": "marcas"
+            },
+            {
+                "value": 3,
                 "id": "Turquesa",
                 "text": "Turquesa",
                 "next": "marcas"
@@ -346,6 +370,12 @@
             { "value": 4, "id": "Verde", "text": "Verde", "next": "marcas" },
             { "value": 4, "id": "Cinza", "text": "Cinza", "next": "marcas" },
             { "value": 4, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 4,
+                "id": "Laranja",
+                "text": "Laranja",
+                "next": "marcas"
+            },
             {
                 "value": 4,
                 "id": "Turquesa",
@@ -432,6 +462,12 @@
             { "value": 5, "id": "Marrom", "text": "Marrom", "next": "marcas" },
             {
                 "value": 5,
+                "id": "Laranja",
+                "text": "Laranja",
+                "next": "marcas"
+            },
+            {
+                "value": 5,
                 "id": "Turquesa",
                 "text": "Turquesa",
                 "next": "marcas"
@@ -514,6 +550,12 @@
             { "value": 6, "id": "Verde", "text": "Verde", "next": "marcas" },
             { "value": 6, "id": "Cinza", "text": "Cinza", "next": "marcas" },
             { "value": 6, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 6,
+                "id": "Laranja",
+                "text": "Laranja",
+                "next": "marcas"
+            },
             {
                 "value": 6,
                 "id": "Turquesa",
@@ -600,6 +642,12 @@
             { "value": 7, "id": "Marrom", "text": "Marrom", "next": "marcas" },
             {
                 "value": 7,
+                "id": "Laranja",
+                "text": "Laranja",
+                "next": "marcas"
+            },
+            {
+                "value": 7,
                 "id": "Turquesa",
                 "text": "Turquesa",
                 "next": "marcas"
@@ -682,6 +730,12 @@
             { "value": 8, "id": "Verde", "text": "Verde", "next": "marcas" },
             { "value": 8, "id": "Cinza", "text": "Cinza", "next": "marcas" },
             { "value": 8, "id": "Marrom", "text": "Marrom", "next": "marcas" },
+            {
+                "value": 8,
+                "id": "Laranja",
+                "text": "Laranja",
+                "next": "marcas"
+            },
             {
                 "value": 8,
                 "id": "Turquesa",

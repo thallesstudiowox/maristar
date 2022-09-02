@@ -17,7 +17,8 @@
                 "next": "tamanho"
             },
             { "value": 0, "id": "Botões", "text": "Botões", "next": "tamanho" },
-            { "value": 0, "id": "Cinto", "text": "Cinto", "next": "tamanho" }
+            { "value": 0, "id": "Cinto", "text": "Cinto", "next": "tamanho" },
+            { "value": 0, "id": "Outros", "text": "Outros", "next": "tamanho" }
         ],
         [{}],
         [{}],
@@ -37,7 +38,8 @@
                 "next": "tamanho"
             },
             { "value": 4, "id": "Botões", "text": "Botões", "next": "tamanho" },
-            { "value": 4, "id": "Cinto", "text": "Cinto", "next": "tamanho" }
+            { "value": 4, "id": "Cinto", "text": "Cinto", "next": "tamanho" },
+            { "value": 4, "id": "Outros", "text": "Outros", "next": "tamanho" }
         ],
         [
             {
@@ -69,6 +71,12 @@
                 "id": "Cinto",
                 "text": "Cinto",
                 "next": "modelo_saia"
+            },
+            {
+                "value": 5,
+                "id": "Outros",
+                "text": "Outros",
+                "next": "modelo_saia"
             }
         ],
         [
@@ -86,7 +94,8 @@
                 "next": "gola"
             },
             { "value": 6, "id": "Aberto", "text": "Aberto", "next": "gola" },
-            { "value": 6, "id": "Cinto", "text": "Cinto", "next": "gola" }
+            { "value": 6, "id": "Cinto", "text": "Cinto", "next": "gola" },
+            { "value": 6, "id": "Outros", "text": "Outros", "next": "gola" }
         ],
         [],
         []

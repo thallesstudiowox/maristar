@@ -44,6 +44,13 @@
                 "id": "Viscose",
                 "next": "textos"
             },
+            { "value": 0, "text": "Malha", "id": "Malha", "next": "textos" },
+            {
+                "value": 0,
+                "text": "Algodão",
+                "id": "Algodão",
+                "next": "textos"
+            },
             { "value": 0, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
@@ -86,6 +93,13 @@
                 "value": 1,
                 "text": "Viscose",
                 "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 1, "text": "Malha", "id": "Malha", "next": "textos" },
+            {
+                "value": 1,
+                "text": "Algodão",
+                "id": "Algodão",
                 "next": "textos"
             },
             { "value": 1, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
@@ -132,6 +146,13 @@
                 "id": "Viscose",
                 "next": "textos"
             },
+            { "value": 2, "text": "Malha", "id": "Malha", "next": "textos" },
+            {
+                "value": 2,
+                "text": "Algodão",
+                "id": "Algodão",
+                "next": "textos"
+            },
             { "value": 2, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
@@ -174,6 +195,13 @@
                 "value": 3,
                 "text": "Viscose",
                 "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 3, "text": "Malha", "id": "Malha", "next": "textos" },
+            {
+                "value": 3,
+                "text": "Algodão",
+                "id": "Algodão",
                 "next": "textos"
             },
             { "value": 3, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
@@ -220,6 +248,13 @@
                 "id": "Viscose",
                 "next": "textos"
             },
+            { "value": 4, "text": "Malha", "id": "Malha", "next": "textos" },
+            {
+                "value": 4,
+                "text": "Algodão",
+                "id": "Algodão",
+                "next": "textos"
+            },
             { "value": 4, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
@@ -262,6 +297,13 @@
                 "value": 5,
                 "text": "Viscose",
                 "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 5, "text": "Malha", "id": "Malha", "next": "textos" },
+            {
+                "value": 5,
+                "text": "Algodão",
+                "id": "Algodão",
                 "next": "textos"
             },
             { "value": 5, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
@@ -308,6 +350,13 @@
                 "id": "Viscose",
                 "next": "textos"
             },
+            { "value": 6, "text": "Malha", "id": "Malha", "next": "textos" },
+            {
+                "value": 6,
+                "text": "Algodão",
+                "id": "Algodão",
+                "next": "textos"
+            },
             { "value": 6, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
@@ -352,6 +401,13 @@
                 "id": "Viscose",
                 "next": "textos"
             },
+            { "value": 7, "text": "Malha", "id": "Malha", "next": "textos" },
+            {
+                "value": 7,
+                "text": "Algodão",
+                "id": "Algodão",
+                "next": "textos"
+            },
             { "value": 7, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
         ],
         [
@@ -394,6 +450,13 @@
                 "value": 8,
                 "text": "Viscose",
                 "id": "Viscose",
+                "next": "textos"
+            },
+            { "value": 8, "text": "Malha", "id": "Malha", "next": "textos" },
+            {
+                "value": 8,
+                "text": "Algodão",
+                "id": "Algodão",
                 "next": "textos"
             },
             { "value": 8, "text": "OUTRO", "id": "OUTRO", "next": "textos" }
